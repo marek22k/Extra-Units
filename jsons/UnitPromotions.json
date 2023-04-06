@@ -237,6 +237,7 @@
     },
     {
 		"name": "Escape II",
+        "prerequisites": ["Escape I"],
 		"uniques": ["[+1] Movement"],
 		"unitTypes": ["Medic"],
         "row": 33,
