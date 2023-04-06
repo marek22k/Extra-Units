@@ -132,6 +132,7 @@
     },
     {
         "name": "Capture II",
+        "prerequisites": ["Capture I"],
         "uniques": [
             "May capture killed [Military] units"
         ],
