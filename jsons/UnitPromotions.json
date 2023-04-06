@@ -2,9 +2,14 @@
     // row - x
     // column - y
 
-    // Generic attributes
-    // "May capture killed [Barbarians] units"
+    // Row 0-10 Heal instantly
+    // 10+ Units
+    //   11-20 Generic
+    //   21-30 Frontier Hunter
+    //   31-40 Medic
 
+    // Generic attributes
+    // Mazbe add "May capture killed [Barbarians] units" somewhere
     {
         "name": "Loyalty I",
         "uniques": [
@@ -23,9 +28,9 @@
             "Ranged Water",
             "Submarine",
             "Medic",
-            "Malee Frontier Hunter"
+            "Ranged Frontier Hunter"
         ],
-        "row": 13,
+        "row": 11,
         "column": 0
     },
     {
@@ -46,9 +51,9 @@
             "Ranged Water",
             "Submarine",
             "Medic",
-            "Malee Frontier Hunter"
+            "Ranged Frontier Hunter"
         ],
-        "row": 13,
+        "row": 11,
         "column": 1
     },
     {
@@ -70,9 +75,9 @@
             "Ranged Water",
             "Submarine",
             "Medic",
-            "Malee Frontier Hunter"
+            "Ranged Frontier Hunter"
         ],
-        "row": 5,
+        "row": 12,
         "column": 2
     },
     {
@@ -94,9 +99,9 @@
             "Ranged Water",
             "Submarine",
             "Medic",
-            "Malee Frontier Hunter"
+            "Ranged Frontier Hunter"
         ],
-        "row": 5,
+        "row": 12,
         "column": 3
     },
     {
@@ -110,9 +115,9 @@
             "Ranged Gunpowder",
             "Ranged Water",
             "Submarine",
-            "Malee Frontier Hunter"
+            "Ranged Frontier Hunter"
         ],
-        "row": 5,
+        "row": 12,
         "column": 4
     },
     {
@@ -120,8 +125,8 @@
         "uniques": [
             "May capture killed [Civilian] units"
         ],
-		"unitTypes": ["Malee Frontier Hunter"],
-        "row": 12,
+		"unitTypes": ["Ranged Frontier Hunter"],
+        "row": 13,
         "column": 0
     },
     {
@@ -129,40 +134,40 @@
         "uniques": [
             "May capture killed [Military] units"
         ],
-		"unitTypes": ["Malee Frontier Hunter"],
-        "row": 12,
+		"unitTypes": ["Ranged Frontier Hunter"],
+        "row": 13,
         "column": 1
-    }
+    },
 
     // Frontier Hunter
     {
         "name": "Heal Instantly",
 		"uniques": ["Heal this unit by [50] HP", "Doing so will consume this opportunity to choose a Promotion"],
-		"unitTypes": ["Malee Frontier Hunter"],
-        "row": 1,
+		"unitTypes": ["Ranged Frontier Hunter"],
+        "row": 0,
         "column": 0
     },
     {
         "name": "Companionship I",
 		"uniques": ["[+5]% Strength bonus for [Frontier Hunter] units within [1] tiles"],
-		"unitTypes": ["Malee Frontier Hunter"],
-        "row": 2,
+		"unitTypes": ["Ranged Frontier Hunter"],
+        "row": 21,
         "column": 0
     },
     {
         "name": "Companionship II",
         "prerequisites": ["Companionship I"],
 		"uniques": ["[+5]% Strength bonus for [Frontier Hunter] units within [2] tiles"],
-		"unitTypes": ["Malee Frontier Hunter"],
-        "row": 2,
+		"unitTypes": ["Ranged Frontier Hunter"],
+        "row": 21,
         "column": 1
     },
     {
         "name": "Companionship III",
         "prerequisites": ["Companionship II"],
 		"uniques": ["[+10]% Strength bonus for [Frontier Hunter] units within [2] tiles"],
-		"unitTypes": ["Malee Frontier Hunter"],
-        "row": 2,
+		"unitTypes": ["Ranged Frontier Hunter"],
+        "row": 21,
         "column": 2
     },
     {
@@ -171,8 +176,8 @@
             "[-10]% Strength for enemy [Military] units in adjacent [Fort] tiles",
             "[-10]% Strength for enemy [Military] units in adjacent [Rough terrain] tiles"
         ],
-		"unitTypes": ["Malee Frontier Hunter"],
-        "row": 3,
+		"unitTypes": ["Ranged Frontier Hunter"],
+        "row": 22,
         "column": 0
     },
     {
@@ -182,8 +187,8 @@
             "[+10]% Strength <in [Friendly Land] tiles>",
             "Can see invisible [Land] units <in [Friendly Land] tiles>"
         ],
-		"unitTypes": ["Malee Frontier Hunter"],
-        "row": 3,
+		"unitTypes": ["Ranged Frontier Hunter"],
+        "row": 22,
         "column": 1
     },
     {
@@ -194,8 +199,8 @@
             "Ranged attacks may be performed over obstacles <in [Friendly Land] tiles>",
             "Can see over obstacles <in [Friendly Land] tiles>"
         ],
-		"unitTypes": ["Malee Frontier Hunter"],
-        "row": 3,
+		"unitTypes": ["Ranged Frontier Hunter"],
+        "row": 22,
         "column": 2
     },
     {
@@ -206,8 +211,8 @@
             "Double movement in [Friendly Land]",
             "Can enter ice tiles <in [Friendly Land] tiles>"
         ],
-		"unitTypes": ["Malee Frontier Hunter"],
-        "row": 3,
+		"unitTypes": ["Ranged Frontier Hunter"],
+        "row": 22,
         "column": 3
     },
 
@@ -216,15 +221,14 @@
 		"name": "Heal Instantly",
 		"uniques": ["Heal this unit by [150] HP", "Doing so will consume this opportunity to choose a Promotion"],
 		"unitTypes": ["Medic"],
-        "row": 6,
+        "row": 1,
         "column": 0
     },
-
     {
 		"name": "Rescue I",
 		"uniques": ["Can carry [1] [Wounded] units"],
 		"unitTypes": ["Medic"],
-        "row": 7,
+        "row": 31,
         "column": 0
     },
     {
@@ -232,7 +236,7 @@
         "prerequisites": ["Rescue I"],
 		"uniques": ["Can carry [1] extra [Wounded] units"],
 		"unitTypes": ["Medic"],
-        "row": 7,
+        "row": 31,
         "column": 1
     },
     {
@@ -240,55 +244,44 @@
         "prerequisites": ["Rescue II"],
 		"uniques": ["Can carry [1] extra [Wounded] units"],
 		"unitTypes": ["Medic"],
-        "row": 7,
+        "row": 31,
         "column": 2
     },
-
     {
 		"name": "Escape I",
         "prerequisites": ["Rescue I", "Grandparents knowledge"],
 		"uniques": ["Ignores Zone of Control"],
 		"unitTypes": ["Medic"],
-        "row": 8,
+        "row": 32,
         "column": 1
     },
     {
 		"name": "Escape II",
 		"uniques": ["[+1] Movement"],
 		"unitTypes": ["Medic"],
-        "row": 8,
+        "row": 33,
         "column": 2
     },
-    {
-		"name": "Escape III",
-		"uniques": ["[+2] Movement"],
-		"unitTypes": ["Medic"],
-        "row": 8,
-        "column": 3
-    },
-
     {
 		"name": "Words of comfort",
 		"uniques": ["All healing effects doubled"],
 		"unitTypes": ["Medic"],
-        "row": 9,
+        "row": 34,
         "column": 0
     },
-
     {
 		"name": "Grandparents knowledge",
 		"uniques": ["Unit will heal every turn, even if it performs an action"],
 		"unitTypes": ["Medic"],
-        "row": 10,
+        "row": 35,
         "column": 0
     },
-
     {
         "name": "Companionship",
         "prerequisites": ["Rescue I", "Escape I", "Words of comfort", "Grandparents knowledge"],
 		"uniques": ["[+1] additional attacks per turn"],
 		"unitTypes": ["Medic"],
-        "row": 11,
+        "row": 36,
         "column": 3
     }
 ]
