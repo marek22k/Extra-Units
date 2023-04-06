@@ -206,6 +206,7 @@
         "column": 2
     },
     {
+        // Currently partly broken, see https://github.com/yairm210/Unciv/issues/3242#issuecomment-1499653990
         "name": "Local knowledge IV",
         "prerequisites": ["Local knowledge III"],
         "uniques": [
