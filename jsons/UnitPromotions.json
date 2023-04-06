@@ -6,14 +6,14 @@
     {
         "name": "Heal Instantly",
 		"uniques": ["Heal this unit by [50] HP", "Doing so will consume this opportunity to choose a Promotion"],
-		"unitTypes": ["Frontier Hunter"],
+		"unitTypes": ["Malee Frontier Hunter"],
         "row": 1,
         "column": 0
     },
     {
         "name": "Companionship I",
 		"uniques": ["[+5]% Strength bonus for [Frontier Hunter] units within [1] tiles"],
-		"unitTypes": ["Frontier Hunter"],
+		"unitTypes": ["Malee Frontier Hunter"],
         "row": 2,
         "column": 0
     },
@@ -21,7 +21,7 @@
         "name": "Companionship II",
         "prerequisites": ["Companionship I"],
 		"uniques": ["[+5]% Strength bonus for [Frontier Hunter] units within [2] tiles"],
-		"unitTypes": ["Frontier Hunter"],
+		"unitTypes": ["Malee Frontier Hunter"],
         "row": 2,
         "column": 1
     },
@@ -29,7 +29,7 @@
         "name": "Companionship III",
         "prerequisites": ["Companionship II"],
 		"uniques": ["[+10]% Strength bonus for [Frontier Hunter] units within [2] tiles"],
-		"unitTypes": ["Frontier Hunter"],
+		"unitTypes": ["Malee Frontier Hunter"],
         "row": 2,
         "column": 2
     },
@@ -39,7 +39,7 @@
             "[-10]% Strength for enemy [Military] units in adjacent [Fort] tiles",
             "[-10]% Strength for enemy [Military] units in adjacent [Rough terrain] tiles"
         ],
-		"unitTypes": ["Frontier Hunter"],
+		"unitTypes": ["Malee Frontier Hunter"],
         "row": 3,
         "column": 0
     },
@@ -50,7 +50,7 @@
             "[+10]% Strength <in [Friendly Land] tiles>",
             "Can see invisible [Land] units <in [Friendly Land] tiles>"
         ],
-		"unitTypes": ["Frontier Hunter"],
+		"unitTypes": ["Malee Frontier Hunter"],
         "row": 3,
         "column": 1
     },
@@ -62,7 +62,7 @@
             "Ranged attacks may be performed over obstacles <in [Friendly Land] tiles>",
             "Can see over obstacles <in [Friendly Land] tiles>"
         ],
-		"unitTypes": ["Frontier Hunter"],
+		"unitTypes": ["Malee Frontier Hunter"],
         "row": 3,
         "column": 2
     },
@@ -74,7 +74,7 @@
             "Double movement in [Friendly Land]",
             "Can enter ice tiles <in [Friendly Land] tiles>"
         ],
-		"unitTypes": ["Frontier Hunter"],
+		"unitTypes": ["Malee Frontier Hunter"],
         "row": 3,
         "column": 3
     },
@@ -83,7 +83,7 @@
         "uniques": [
             "Uncapturable <in [Friendly Land] tiles>"
         ],
-		"unitTypes": ["Frontier Hunter"],
+		"unitTypes": ["Malee Frontier Hunter"],
         "row": 4,
         "column": 0
     },
@@ -93,7 +93,7 @@
         "uniques": [
             "[+1] additional attacks per turn"
         ],
-		"unitTypes": ["Frontier Hunter"],
+		"unitTypes": ["Malee Frontier Hunter"],
         "row": 5,
         "column": 2
     },
@@ -103,7 +103,7 @@
         "uniques": [
             "[+1] Movement"
         ],
-		"unitTypes": ["Frontier Hunter"],
+		"unitTypes": ["Malee Frontier Hunter"],
         "row": 5,
         "column": 3
     },
@@ -113,7 +113,7 @@
         "uniques": [
             "[+1] Range"
         ],
-		"unitTypes": ["Frontier Hunter"],
+		"unitTypes": ["Malee Frontier Hunter"],
         "row": 5,
         "column": 4
     }

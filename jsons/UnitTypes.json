@@ -5,7 +5,7 @@
         "uniques": ["May heal outside of friendly territory", "Unable to capture cities"]
     },
     {
-        "name": "Frontier Hunter",
+        "name": "Malee Frontier Hunter",
         "movementType": "Land",
         "uniques": [
             "Unable to capture cities",   

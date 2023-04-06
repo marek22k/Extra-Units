@@ -17,6 +17,12 @@
 | Paramedic | Eucalyp | [Noun Project](https://thenounproject.com/icon/paramedic-5265313/) |
 | Emergency service | iconfield | [Noun Project](https://thenounproject.com/icon/hospital-5565148/) |
 | Crisis helpline | David Khai | [Noun Project](https://thenounproject.com/icon/support-3349332/) |
+| Stone thrower | Alina Oleynik | [Noun Project](https://thenounproject.com/icon/unrest-854428/) |
+| Frontier Archer | Ker'is | [Noun Project](https://thenounproject.com/icon/archer-991224/) |
+| Frontier double archer | Ker'is | [Noun Project](https://thenounproject.com/icon/archer-991230/) |
+| Border Patrol | Koson Rattanaphan | [Noun Project](https://thenounproject.com/icon/police-2426065/) |
+| Frontier Hunter | Iconographer | [Noun Project](https://thenounproject.com/icon/guard-4909569/)|
+| Border Guard | Vectors Market | [Noun Project](https://thenounproject.com/icon/army-soldier-2052160/) |
 
 ## Software
 

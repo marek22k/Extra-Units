@@ -2,7 +2,7 @@
     // Frontier Hunters
     {
         "name": "Stone thrower",
-        "unitType": "Frontier Hunter",
+        "unitType": "Malee Frontier Hunter",
 
         "requiredTech": "Archery",
         "obsoleteTech": "Construction",
@@ -17,7 +17,7 @@
     },
     {
         "name": "Frontier Archer",
-        "unitType": "Frontier Hunter",
+        "unitType": "Malee Frontier Hunter",
 
         "requiredTech": "Construction",
         "obsoleteTech": "Machinery",
@@ -32,11 +32,11 @@
     },
     {
         "name": "Frontier double archer",
-        "unitType": "Frontier Hunter",
+        "unitType": "Malee Frontier Hunter",
 
         "requiredTech": "Machinery",
         "obsoleteTech": "Industrialization",
-        "upgradesTo": "Border Guards",
+        "upgradesTo": "Border Guard",
 
         "strength": 10,
         "rangedStrength": 20,
@@ -46,8 +46,8 @@
         "cost": 110
     },
     {
-        "name": "Border Guards",
-        "unitType": "Frontier Hunter",
+        "name": "Border Guard",
+        "unitType": "Malee Frontier Hunter",
 
         "requiredTech": "Industrialization",
         "obsoleteTech": "Ballistics",
@@ -62,7 +62,7 @@
     },
     {
         "name": "Border Patrol",
-        "unitType": "Frontier Hunter",
+        "unitType": "Malee Frontier Hunter",
 
         "requiredTech": "Ballistics",
         "obsoleteTech": "Mobile Tactics",
@@ -79,7 +79,7 @@
     },
     {
         "name": "Frontier Hunter",
-        "unitType": "Frontier Hunter",
+        "unitType": "Malee Frontier Hunter",
 
         "requiredTech": "Mobile Tactics",
         
