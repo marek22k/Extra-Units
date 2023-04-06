@@ -139,7 +139,6 @@
 
         "uniques": ["All adjacent units heal [+3] HP when healing"],
 
-        "strength": 4,
         "movement": 2,
     
         "attackSound": "nonmetalhit",
@@ -155,7 +154,6 @@
 
         "uniques": ["All adjacent units heal [+6] HP when healing"],
 
-        "strength": 7,
         "movement": 2,
     
         "attackSound": "nonmetalhit",
@@ -171,7 +169,6 @@
 
         "uniques": ["All adjacent units heal [+8] HP when healing"],
 
-        "strength": 14,
         "movement": 2,
     
         "attackSound": "nonmetalhit",
@@ -187,7 +184,6 @@
 
         "uniques": ["All adjacent units heal [+12] HP when healing"],
 
-        "strength": 20,
         "movement": 2,
     
         "attackSound": "nonmetalhit",
@@ -201,7 +197,6 @@
 
         "uniques": ["All adjacent units heal [+30] HP when healing"],
 
-        "strength": 40,
         "movement": 2,
     
         "attackSound": "nonmetalhit",

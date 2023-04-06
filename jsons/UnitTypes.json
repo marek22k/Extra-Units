@@ -2,7 +2,11 @@
     {
         "name": "Medic",
         "movementType": "Land",
-        "uniques": ["May heal outside of friendly territory", "Unable to capture cities"]
+        "uniques": [
+            "May heal outside of friendly territory",
+            "Unable to capture cities",
+            "[+5]% Defense bonus for [Wounded] units within [2] tiles"
+        ]
     },
     {
         "name": "Ranged Frontier Hunter",
@@ -10,7 +14,10 @@
         "uniques": [
             "Unable to capture cities",   
             "[-1] Movement <in [Foreign Land] tiles>",
-            "[-80]% Strength <in [Foreign Land] tiles>"
+            "[-20]% Strength <with [5] to [5] neighboring [Foreign Land] tiles>",
+            "[-90]% Strength <with [6] to [6] neighboring [Foreign Land] tiles>",
+            "[-100]% Strength <in [Enemy Land] tiles>",
+            "[+20]% Strength <within [1] tiles of a [Friendly Land]>"
         ]
     }
 ]
