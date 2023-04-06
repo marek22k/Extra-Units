@@ -25,6 +25,15 @@
 | Border Guard | Vectors Market | [Noun Project](https://thenounproject.com/icon/army-soldier-2052160/) |
 | Ranger | Hey Rabbit | [Noun Project](https://thenounproject.com/icon/police-4706191/) |
 | Shooting range | Maxicons | [Noun Project](https://thenounproject.com/icon/target-5052274/) |
+| Loyalty | Trishul from | [Noun Project](https://thenounproject.com/icon/king-1207289/) |
+| Endurance | Carlsn Studio | [Noun Project](https://thenounproject.com/icon/endurance-5641468/) |
+| Capture | Nociconist | [Noun Project](https://thenounproject.com/icon/prison-2025084/) |
+| Companionship | Candy Design | [Noun Project](https://thenounproject.com/icon/collaboration-hands-4252886/) |
+| Local knowledge | icon 54 | [Noun Project](https://thenounproject.com/icon/library-236776/) |
+| Rescue | Phoenix Dungeon | [Noun Project](https://thenounproject.com/icon/rescue-3591584/) |
+| Escape | b farias | [Noun Project](https://thenounproject.com/icon/escape-861467/) |
+| Words of comfort | Francielly Costantin Senra | [Noun Project](https://thenounproject.com/icon/heart-105248/) |
+| Grandparents knowledge | Llisole | [Noun Project](https://thenounproject.com/icon/grandparents-4183320/) |
 
 ## Software
 
