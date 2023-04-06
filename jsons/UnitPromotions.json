@@ -35,6 +35,7 @@
     },
     {
         "name": "Loyalty II",
+        "prerequisites": ["Loyalty I"],
         "uniques": [
             "Uncapturable"
         ],
