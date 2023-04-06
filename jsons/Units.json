@@ -36,7 +36,7 @@
     // Frontier Hunters
     {
         "name": "Stone thrower",
-        "unitType": "Malee Frontier Hunter",
+        "unitType": "Ranged Frontier Hunter",
 
         "requiredTech": "Archery",
         "obsoleteTech": "Construction",
@@ -51,7 +51,7 @@
     },
     {
         "name": "Frontier Archer",
-        "unitType": "Malee Frontier Hunter",
+        "unitType": "Ranged Frontier Hunter",
 
         "requiredTech": "Construction",
         "obsoleteTech": "Machinery",
@@ -66,7 +66,7 @@
     },
     {
         "name": "Frontier double archer",
-        "unitType": "Malee Frontier Hunter",
+        "unitType": "Ranged Frontier Hunter",
 
         "requiredTech": "Machinery",
         "obsoleteTech": "Industrialization",
@@ -81,7 +81,7 @@
     },
     {
         "name": "Border Guard",
-        "unitType": "Malee Frontier Hunter",
+        "unitType": "Ranged Frontier Hunter",
 
         "requiredTech": "Industrialization",
         "obsoleteTech": "Ballistics",
@@ -96,7 +96,7 @@
     },
     {
         "name": "Border Patrol",
-        "unitType": "Malee Frontier Hunter",
+        "unitType": "Ranged Frontier Hunter",
 
         "requiredTech": "Ballistics",
         "obsoleteTech": "Mobile Tactics",
@@ -113,7 +113,7 @@
     },
     {
         "name": "Frontier Hunter",
-        "unitType": "Malee Frontier Hunter",
+        "unitType": "Ranged Frontier Hunter",
 
         "requiredTech": "Mobile Tactics",
         

@@ -1,5 +1,26 @@
 [
     {
+        "name": "Last division",
+
+        "maintenance": 2,
+        "cityStrength": 20,
+        "cityHealth": 5,
+
+        "requiredTech": "Rifling",
+		"requiredBuilding": "Castle",
+        
+        "uniques": [
+            "New [Military] units start with [15] Experience [in this city]",
+            "Destroyed when the city is captured",
+            "Doubles Gold given to enemy if city is captured",
+            "[2] units cost no maintenance",
+            "Can only be built [in capital]"
+        ],
+
+        "isNationalWonder": true,
+        "cost": 300
+    },
+    {
         "name": "Shooting range",
 
         "maintenance": 1,
