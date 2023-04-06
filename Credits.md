@@ -23,6 +23,7 @@
 | Border Patrol | Koson Rattanaphan | [Noun Project](https://thenounproject.com/icon/police-2426065/) |
 | Frontier Hunter | Iconographer | [Noun Project](https://thenounproject.com/icon/guard-4909569/)|
 | Border Guard | Vectors Market | [Noun Project](https://thenounproject.com/icon/army-soldier-2052160/) |
+| Ranger | Hey Rabbit | [Noun Project](https://thenounproject.com/icon/police-4706191/) |
 
 ## Software
 

@@ -1,4 +1,39 @@
 [
+    // Scounts
+    {
+        // Overwrite the default one, so that a upgrade is possible
+		"name": "Scout",
+		"unitType": "Scout",
+
+        "obsoleteTech": "Scientific Theory",
+        "upgradesTo": "Ranger",
+
+        "uniques": ["May upgrade to [Archer] through ruins-like effects", "Never appears as a Barbarian unit"],
+
+		"strength": 5,
+		"movement": 2,
+		
+        "promotions": ["Ignore terrain cost"],
+		"attackSound": "nonmetalhit",
+		"cost": 25
+	},
+    {
+		"name": "Ranger",
+		"unitType": "Scout",
+
+        "requiredTech": "Scientific Theory",
+        "upgradesTo": "Ranger",
+
+        "uniques": ["May upgrade to [Archer] through ruins-like effects", "Never appears as a Barbarian unit"],
+
+		"strength": 5,
+		"movement": 2,
+		
+        "promotions": ["Ignore terrain cost"],
+		"attackSound": "nonmetalhit",
+		"cost": 25
+	},
+
     // Frontier Hunters
     {
         "name": "Stone thrower",
