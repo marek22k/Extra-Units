@@ -165,16 +165,9 @@ UnitPromotionIcons/Loyalty
   orig: 50, 50
   offset: 0, 0
   index: -1
-UnitPromotionIcons/Rescue
-  rotate: false
-  xy: 1726, 362
-  size: 50, 50
-  orig: 50, 50
-  offset: 0, 0
-  index: -1
 UnitPromotionIcons/Words of comfort
   rotate: false
-  xy: 1784, 420
+  xy: 1726, 362
   size: 50, 50
   orig: 50, 50
   offset: 0, 0

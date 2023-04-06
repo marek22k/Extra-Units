@@ -228,31 +228,8 @@
         "column": 0
     },
     {
-		"name": "Rescue I",
-		"uniques": ["Can carry [1] extra [Wounded] units"],
-		"unitTypes": ["Medic"],
-        "row": 31,
-        "column": 0
-    },
-    {
-		"name": "Rescue II",
-        "prerequisites": ["Rescue I"],
-		"uniques": ["Can carry [1] extra [Wounded] units"],
-		"unitTypes": ["Medic"],
-        "row": 31,
-        "column": 1
-    },
-    {
-		"name": "Rescue III",
-        "prerequisites": ["Rescue II"],
-		"uniques": ["Can carry [1] extra [Wounded] units"],
-		"unitTypes": ["Medic"],
-        "row": 31,
-        "column": 2
-    },
-    {
 		"name": "Escape I",
-        "prerequisites": ["Rescue I", "Grandparents knowledge"],
+        "prerequisites": ["Grandparents knowledge"],
 		"uniques": ["Ignores Zone of Control"],
 		"unitTypes": ["Medic"],
         "row": 32,
@@ -281,7 +258,7 @@
     },
     {
         "name": "Companionship",
-        "prerequisites": ["Rescue I", "Escape I", "Words of comfort", "Grandparents knowledge"],
+        "prerequisites": ["Escape I", "Words of comfort", "Grandparents knowledge"],
 		"uniques": ["[+1] additional attacks per turn"],
 		"unitTypes": ["Medic"],
         "row": 36,

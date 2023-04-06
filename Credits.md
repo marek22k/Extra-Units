@@ -30,7 +30,6 @@
 | Capture | Nociconist | [Noun Project](https://thenounproject.com/icon/prison-2025084/) |
 | Companionship | Candy Design | [Noun Project](https://thenounproject.com/icon/collaboration-hands-4252886/) |
 | Local knowledge | icon 54 | [Noun Project](https://thenounproject.com/icon/library-236776/) |
-| Rescue | Phoenix Dungeon | [Noun Project](https://thenounproject.com/icon/rescue-3591584/) |
 | Escape | b farias | [Noun Project](https://thenounproject.com/icon/escape-861467/) |
 | Words of comfort | Francielly Costantin Senra | [Noun Project](https://thenounproject.com/icon/heart-105248/) |
 | Grandparents knowledge | Llisole | [Noun Project](https://thenounproject.com/icon/grandparents-4183320/) |
