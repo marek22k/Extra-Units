@@ -259,7 +259,7 @@
     },
     {
         "name": "Companionship",
-        "prerequisites": ["Escape I", "Words of comfort", "Grandparents knowledge"],
+        "prerequisites": ["Words of comfort", "Grandparents knowledge"],
 		"uniques": ["[+1] additional attacks per turn"],
 		"unitTypes": ["Medic"],
         "row": 36,
