@@ -15,6 +15,7 @@ echo "TODO: Update the game.png and game.atlas after each image change!"
 
 check_size "./Images/UnitIcons/" "200 x 200"
 check_size "./Images/BuildingIcons/" "200 x 200"
+check_size "./Images/UnitPromotionIcons/" "50 x 50"
 
 if [ ! -e "game.png" ]; then
     echo "Missing game.png"
