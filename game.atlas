@@ -18,6 +18,20 @@ BuildingIcons/Emergency service
   orig: 200, 200
   offset: 0, 0
   index: -1
+BuildingIcons/Last division
+  rotate: false
+  xy: 836, 212
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Shooting range
+  rotate: false
+  xy: 1252, 4
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
 UnitIcons/Border Guard
   rotate: false
   xy: 4, 212
@@ -62,42 +76,42 @@ UnitIcons/Healer
   index: -1
 UnitIcons/Paramedic
   rotate: false
-  xy: 836, 212
+  xy: 836, 4
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Pharmacist
   rotate: false
-  xy: 836, 4
+  xy: 1044, 212
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Ranger
   rotate: false
-  xy: 1044, 212
+  xy: 1044, 4
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Shaman
   rotate: false
-  xy: 1044, 4
+  xy: 1252, 212
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Stone thrower
   rotate: false
-  xy: 1252, 212
+  xy: 1460, 212
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Wise person
   rotate: false
-  xy: 1252, 4
+  xy: 1460, 4
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
