@@ -74,23 +74,30 @@ UnitIcons/Pharmacist
   orig: 200, 200
   offset: 0, 0
   index: -1
-UnitIcons/Shaman
+UnitIcons/Ranger
   rotate: false
   xy: 1044, 212
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
-UnitIcons/Stone thrower
+UnitIcons/Shaman
   rotate: false
   xy: 1044, 4
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
-UnitIcons/Wise person
+UnitIcons/Stone thrower
   rotate: false
   xy: 1252, 212
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Wise person
+  rotate: false
+  xy: 1252, 4
   size: 200, 200
   orig: 200, 200
   offset: 0, 0

@@ -22,16 +22,15 @@
 		"unitType": "Scout",
 
         "requiredTech": "Scientific Theory",
-        "upgradesTo": "Ranger",
 
-        "uniques": ["May upgrade to [Archer] through ruins-like effects", "Never appears as a Barbarian unit"],
+        "uniques": ["Never appears as a Barbarian unit"],
 
-		"strength": 5,
-		"movement": 2,
+		"strength": 20,
+		"movement": 3,
 		
-        "promotions": ["Ignore terrain cost"],
+        "promotions": ["Ignore terrain cost", "Scouting I"],
 		"attackSound": "nonmetalhit",
-		"cost": 25
+		"cost": 200
 	},
 
     // Frontier Hunters

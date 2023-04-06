@@ -1,5 +1,21 @@
 [
     {
+        "name": "Shooting range",
+
+        "maintenance": 1,
+        "hurryCostModifier": 15,
+
+        "requiredTech": "Rifling",
+		"requiredBuilding": "Armory",
+        
+        "uniques": [
+            "New [Military] units start with [15] Experience [in this city]",
+            "Destroyed when the city is captured"
+        ],
+
+        "cost": 200
+    },
+    {
         "name": "Emergency service",
 
         "maintenance": 1,

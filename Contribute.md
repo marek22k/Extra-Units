@@ -31,6 +31,7 @@
 - `uniqueTo`
 - Empty line
 - `maintenance`
+- `hurryCostModifier`
 - Resources provided:
     - `happiness`
     - `food`
