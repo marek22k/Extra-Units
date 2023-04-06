@@ -5,14 +5,15 @@
         "uniques": [
             "May heal outside of friendly territory",
             "Unable to capture cities",
-            "[+5]% Defense bonus for [Wounded] units within [2] tiles"
+            "[+5]% Defense bonus for [Wounded] units within [2] tiles",
+            "Can carry [1] [Wounded] units"
         ]
     },
     {
         "name": "Ranged Frontier Hunter",
         "movementType": "Land",
         "uniques": [
-            "Unable to capture cities",   
+            "Unable to capture cities",
             "[-1] Movement <in [Foreign Land] tiles>",
             "[-20]% Strength <with [5] to [5] neighboring [Foreign Land] tiles>",
             "[-90]% Strength <with [6] to [6] neighboring [Foreign Land] tiles>",

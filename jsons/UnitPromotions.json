@@ -228,7 +228,7 @@
     },
     {
 		"name": "Rescue I",
-		"uniques": ["Can carry [1] [Wounded] units"],
+		"uniques": ["Can carry [1] extra [Wounded] units"],
 		"unitTypes": ["Medic"],
         "row": 31,
         "column": 0
