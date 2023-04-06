@@ -1,0 +1,201 @@
+[
+    // row - x
+    // column - y
+
+    // Frontier Hunter
+    {
+        "name": "Heal Instantly",
+		"uniques": ["Heal this unit by [50] HP", "Doing so will consume this opportunity to choose a Promotion"],
+		"unitTypes": ["Frontier Hunter"],
+        "row": 1,
+        "column": 0
+    },
+    {
+        "name": "Companionship I",
+		"uniques": ["[+5]% Strength bonus for [Frontier Hunter] units within [1] tiles"],
+		"unitTypes": ["Frontier Hunter"],
+        "row": 2,
+        "column": 0
+    },
+    {
+        "name": "Companionship II",
+        "prerequisites": ["Companionship I"],
+		"uniques": ["[+5]% Strength bonus for [Frontier Hunter] units within [2] tiles"],
+		"unitTypes": ["Frontier Hunter"],
+        "row": 2,
+        "column": 1
+    },
+    {
+        "name": "Companionship III",
+        "prerequisites": ["Companionship II"],
+		"uniques": ["[+10]% Strength bonus for [Frontier Hunter] units within [2] tiles"],
+		"unitTypes": ["Frontier Hunter"],
+        "row": 2,
+        "column": 2
+    },
+    {
+        "name": "Local knowledge I",
+        "uniques": [
+            "[-10]% Strength for enemy [Military] units in adjacent [Fort] tiles",
+            "[-10]% Strength for enemy [Military] units in adjacent [Rough terrain] tiles"
+        ],
+		"unitTypes": ["Frontier Hunter"],
+        "row": 3,
+        "column": 0
+    },
+    {
+        "name": "Local knowledge II",
+        "prerequisites": ["Local knowledge I"],
+        "uniques": [
+            "[+10]% Strength <in [Friendly Land] tiles>",
+            "Can see invisible [Land] units <in [Friendly Land] tiles>"
+        ],
+		"unitTypes": ["Frontier Hunter"],
+        "row": 3,
+        "column": 1
+    },
+    {
+        "name": "Local knowledge III",
+        "prerequisites": ["Local knowledge II"],
+        "uniques": [
+            "Eliminates combat penalty for attacking over a river <in [Friendly Land] tiles>",
+            "Ranged attacks may be performed over obstacles <in [Friendly Land] tiles>",
+            "Can see over obstacles <in [Friendly Land] tiles>"
+        ],
+		"unitTypes": ["Frontier Hunter"],
+        "row": 3,
+        "column": 2
+    },
+    {
+        "name": "Local knowledge IV",
+        "prerequisites": ["Local knowledge III"],
+        "uniques": [
+            "Can see invisible [Military] units <in [Friendly Land] tiles>",
+            "Double movement in [Friendly Land]",
+            "Can enter ice tiles <in [Friendly Land] tiles>"
+        ],
+		"unitTypes": ["Frontier Hunter"],
+        "row": 3,
+        "column": 3
+    },
+    {
+        "name": "Loyalty",
+        "uniques": [
+            "Uncapturable <in [Friendly Land] tiles>"
+        ],
+		"unitTypes": ["Frontier Hunter"],
+        "row": 4,
+        "column": 0
+    },
+    {
+        "name": "Endurance I",
+        "prerequisites": ["Local knowledge II"],
+        "uniques": [
+            "[+1] additional attacks per turn"
+        ],
+		"unitTypes": ["Frontier Hunter"],
+        "row": 5,
+        "column": 2
+    },
+    {
+        "name": "Endurance II",
+        "prerequisites": ["Endurance I"],
+        "uniques": [
+            "[+1] Movement"
+        ],
+		"unitTypes": ["Frontier Hunter"],
+        "row": 5,
+        "column": 3
+    },
+    {
+        "name": "Endurance III",
+        "prerequisites": ["Endurance II"],
+        "uniques": [
+            "[+1] Range"
+        ],
+		"unitTypes": ["Frontier Hunter"],
+        "row": 5,
+        "column": 4
+    }
+
+    // Medic
+    {
+		"name": "Heal Instantly",
+		"uniques": ["Heal this unit by [150] HP", "Doing so will consume this opportunity to choose a Promotion"],
+		"unitTypes": ["Medic"],
+        "row": 6,
+        "column": 0
+    },
+
+    {
+		"name": "Rescue I",
+		"uniques": ["Can carry [1] [Wounded] units"],
+		"unitTypes": ["Medic"],
+        "row": 7,
+        "column": 0
+    },
+    {
+		"name": "Rescue II",
+        "prerequisites": ["Rescue I"],
+		"uniques": ["Can carry [1] extra [Wounded] units"],
+		"unitTypes": ["Medic"],
+        "row": 7,
+        "column": 1
+    },
+    {
+		"name": "Rescue III",
+        "prerequisites": ["Rescue II"],
+		"uniques": ["Can carry [1] extra [Wounded] units"],
+		"unitTypes": ["Medic"],
+        "row": 7,
+        "column": 2
+    },
+
+    {
+		"name": "Escape I",
+        "prerequisites": ["Rescue I", "Grandparents knowledge"],
+		"uniques": ["Ignores Zone of Control"],
+		"unitTypes": ["Medic"],
+        "row": 8,
+        "column": 1
+    },
+    {
+		"name": "Escape II",
+		"uniques": ["[+1] Movement"],
+		"unitTypes": ["Medic"],
+        "row": 8,
+        "column": 2
+    },
+    {
+		"name": "Escape III",
+		"uniques": ["[+2] Movement"],
+		"unitTypes": ["Medic"],
+        "row": 8,
+        "column": 3
+    },
+
+    {
+		"name": "Words of comfort",
+		"uniques": ["All healing effects doubled"],
+		"unitTypes": ["Medic"],
+        "row": 9,
+        "column": 0
+    },
+
+    {
+		"name": "Grandparents knowledge",
+		"uniques": ["Unit will heal every turn, even if it performs an action"],
+		"unitTypes": ["Medic"],
+        "row": 10,
+        "column": 0
+    },
+
+    {
+        "name": "Companionship",
+        "prerequisites": ["Rescue I", "Escape I", "Words of comfort", "Grandparents knowledge"],
+		"uniques": ["[+1] additional attacks per turn"],
+		"unitTypes": ["Medic"],
+        "row": 11,
+        "column": 3
+    }
+]

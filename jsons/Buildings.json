@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Emergency service",
+
+        "maintenance": 1,
+        "cityHealth": 10,
+
+        "requiredTech": "Radio",
+
+        "uniques": [
+            "All newly-trained [Medic] units [in this city] receive the [Grandparents knowledge] promotion",
+            "Destroyed when the city is captured"],
+
+        "cost": 150
+    },
+    {
+        "name": "Crisis helpline",
+
+        "maintenance": 1,
+        "cityHealth": 10,
+        "happiness": 2,
+        "faith": 2,
+
+        "requiredTech": "Radio",
+
+        "uniques": [
+            "All newly-trained [Medic] units [in this city] receive the [Words of comfort] promotion",
+            "Destroyed when the city is captured",
+            "Requires a [Emergency service] in at least [4] cities"],
+        
+        "isNationalWonder": true,
+        "cost": 125
+    },
+    {
+        // Idea stolen from UnCiv-Logicians
+        "name": "Long time archive",
+
+        "maintenance": 1,
+        "science": 6,
+
+        "requiredTech": "Replaceable Parts",
+
+        "uniques": [
+            "Must be next to [Mountain]",
+            "Must be next to [Snow]",
+            "[+1 Science] per [2] population [in this city]"],
+
+        "cost": 120
+    }
+]

@@ -1,0 +1,27 @@
+# Credits
+
+## Hosting
+
+- [Codeberg](https://codeberg.org/mark22k/UnCiv-Extra-Units)
+- [NotABug](https://notabug.org/mark22k/UnCiv-Extra-Units)
+- [GitHub](https://github.com/marek22k/Extra-Units)
+
+## Image authors
+
+| Picture | Author | Source |
+| --- | --- | --- |
+| Shaman | IconMark | [Noun Project](https://thenounproject.com/icon/shaman-3517046/) |
+| Wise person | Oleksandr Panasovskyi | [Noun Project](https://thenounproject.com/icon/caring-hands-2228943/) |
+| Healer | Reza Nur | [Noun Project](https://thenounproject.com/icon/heal-5644473/) |
+| Pharmacist | Raymond | [Noun Project](https://thenounproject.com/icon/medical-1053629/) |
+| Paramedic | Eucalyp | [Noun Project](https://thenounproject.com/icon/paramedic-5265313/) |
+| Emergency service | iconfield | [Noun Project](https://thenounproject.com/icon/hospital-5565148/) |
+| Crisis helpline | David Khai | [Noun Project](https://thenounproject.com/icon/support-3349332/) |
+
+## Software
+
+- GIMP (for editing the images)
+- Inkscape (for editing the images)
+- VSCodium (for editing the JSON files)
+- Pluma (for editing files)
+

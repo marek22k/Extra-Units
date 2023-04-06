@@ -1,0 +1,16 @@
+[
+    {
+        "name": "Medic",
+        "movementType": "Land",
+        "uniques": ["May heal outside of friendly territory", "Unable to capture cities"]
+    },
+    {
+        "name": "Frontier Hunter",
+        "movementType": "Land",
+        "uniques": [
+            "Unable to capture cities",   
+            "[-1] Movement <in [Foreign Land] tiles>",
+            "[-80]% Strength <in [Foreign Land] tiles>"
+        ]
+    }
+]

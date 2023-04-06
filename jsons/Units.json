@@ -1,0 +1,176 @@
+[
+    // Frontier Hunters
+    {
+        "name": "Stone thrower",
+        "unitType": "Frontier Hunter",
+
+        "requiredTech": "Archery",
+        "obsoleteTech": "Construction",
+        "upgradesTo": "Frontier Archer",
+
+        "strength": 4,
+        "rangedStrength": 8,
+        "movement": 2,
+    
+        "attackSound": "arrow",
+        "cost": 35
+    },
+    {
+        "name": "Frontier Archer",
+        "unitType": "Frontier Hunter",
+
+        "requiredTech": "Construction",
+        "obsoleteTech": "Machinery",
+        "upgradesTo": "Frontier double archer",
+
+        "strength": 5,
+        "rangedStrength": 13,
+        "movement": 2,
+    
+        "attackSound": "arrow",
+        "cost": 70
+    },
+    {
+        "name": "Frontier double archer",
+        "unitType": "Frontier Hunter",
+
+        "requiredTech": "Machinery",
+        "obsoleteTech": "Industrialization",
+        "upgradesTo": "Border Guards",
+
+        "strength": 10,
+        "rangedStrength": 20,
+        "movement": 2,
+    
+        "attackSound": "crossbow",
+        "cost": 110
+    },
+    {
+        "name": "Border Guards",
+        "unitType": "Frontier Hunter",
+
+        "requiredTech": "Industrialization",
+        "obsoleteTech": "Ballistics",
+        "upgradesTo": "Border Patrol",
+
+        "strength": 20,
+        "rangedStrength": 35,
+        "movement": 2,
+    
+        "attackSound": "machinegun",
+        "cost": 220
+    },
+    {
+        "name": "Border Patrol",
+        "unitType": "Frontier Hunter",
+
+        "requiredTech": "Ballistics",
+        "obsoleteTech": "Mobile Tactics",
+        "upgradesTo": "Frontier Hunter",
+        
+        "uniques": ["May Paradrop up to [2] tiles from inside friendly territory"],
+
+        "strength": 50,
+        "rangedStrength": 70,
+        "movement": 2,
+    
+        "attackSound": "machinegun",
+        "cost": 220
+    },
+    {
+        "name": "Frontier Hunter",
+        "unitType": "Frontier Hunter",
+
+        "requiredTech": "Mobile Tactics",
+        
+        "uniques": ["May Paradrop up to [2] tiles from inside friendly territory"],
+
+        "strength": 70,
+        "rangedStrength": 100,
+        "movement": 2,
+    
+        "attackSound": "tankshot",
+        "cost": 360
+    },
+
+
+    // Medic supporter units,
+    {
+        "name": "Wise person",
+        "unitType": "Medic",
+
+        "requiredTech": "Writing",
+        "obsoleteTech": "Philosophy",
+        "upgradesTo": "Shaman",
+
+        "uniques": ["All adjacent units heal [+3] HP when healing"],
+
+        "strength": 4,
+        "movement": 2,
+    
+        "attackSound": "nonmetalhit",
+        "cost": 45
+    },
+    {
+        "name": "Shaman",
+        "unitType": "Medic",
+
+        "requiredTech": "Philosophy",
+        "obsoleteTech": "Chivalry",
+        "upgradesTo": "Healer",
+
+        "uniques": ["All adjacent units heal [+6] HP when healing"],
+
+        "strength": 7,
+        "movement": 2,
+    
+        "attackSound": "nonmetalhit",
+        "cost": 70
+    },
+    {
+        "name": "Healer",
+        "unitType": "Medic",
+
+        "requiredTech": "Chivalry",
+        "obsoleteTech": "Biology",
+        "upgradesTo": "Paramedic",
+
+        "uniques": ["All adjacent units heal [+8] HP when healing"],
+
+        "strength": 14,
+        "movement": 2,
+    
+        "attackSound": "nonmetalhit",
+        "cost": 120
+    },
+    {
+        "name": "Paramedic",
+        "unitType": "Medic",
+
+        "requiredTech": "Biology",
+        "obsoleteTech": "Pharmaceuticals",
+        "upgradesTo": "Pharmacist",
+
+        "uniques": ["All adjacent units heal [+12] HP when healing"],
+
+        "strength": 20,
+        "movement": 2,
+    
+        "attackSound": "nonmetalhit",
+        "cost": 220
+    },
+    {
+        "name": "Pharmacist",
+        "unitType": "Medic",
+
+        "requiredTech": "Pharmaceuticals",
+
+        "uniques": ["All adjacent units heal [+30] HP when healing"],
+
+        "strength": 40,
+        "movement": 2,
+    
+        "attackSound": "nonmetalhit",
+        "cost": 400
+    }
+]
