@@ -17,7 +17,8 @@
             "[-20]% Strength <with [5] to [5] neighboring [Foreign Land] tiles>",
             "[-90]% Strength <with [6] to [6] neighboring [Foreign Land] tiles>",
             "[-100]% Strength <in [Enemy Land] tiles>",
-            "[+20]% Strength <within [1] tiles of a [Friendly Land]>"
+            "[+20]% Strength <within [1] tiles of a [Friendly Land]>",
+            "Never appears as a Barbarian unit"
         ]
     }
 ]
