@@ -171,7 +171,7 @@
                 "name": "Explorer",
                 "uniques": [
                     "Free [Scout] appears",
-                    "Gain [20] [Gold]"
+                    "Gain [50] [Gold]"
                 ],
                 "row": 1,
                 "column": 1
@@ -180,7 +180,7 @@
                 "name": "Establishment",
                 "uniques": [
                     "Free [Settler] appears",
-                    "Gain [3] [Culture]"
+                    "Gain [10] [Culture]"
                 ],
                 "row": 1,
                 "column": 3
@@ -188,8 +188,8 @@
             {
                 "name": "Defense expansion",
                 "uniques": [
-                    "Free [Ranged Frontier Hunter] appears",
-                    "Gain [3] [Production]"
+                    "Free [Frontier double archer] appears",
+                    "Gain [50] [Gold]"
                 ],
                 "row": 1,
                 "column": 5
