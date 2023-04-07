@@ -40,6 +40,7 @@ Many thanks to the people on GitHub and Discord who helped me with some problems
 | Holy city | Katunger | [Noun Project](https://thenounproject.com/icon/western-wall-354836/) |
 | Holy sea | Lagot Design | [Noun Project](https://thenounproject.com/icon/sea-3966030/) |
 | Holy growth | Iga | [Noun Project](https://thenounproject.com/icon/city-1741569/) |
+| Medical School | Puspito | [Noun Project](https://thenounproject.com/icon/medical-school-5614302/) |
 
 ## Software
 
