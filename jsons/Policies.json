@@ -1,0 +1,79 @@
+[
+    {
+        "name": "Holy world",
+        "era": "Medieval era",
+        "priorities": {
+            "Neutral": 10,
+            "Cultural": 0,
+            "Diplomatic": 0,
+            "Domination": 5,
+            "Scientific": 0
+        },
+        "uniques": [
+            "Gain enough Faith for [50]% of a Great Prophet",
+            "Only available <after adopting [Piety]>"
+        ],
+        "policies": [
+            {
+                "name": "Holy sea",
+                "uniques": [
+                    "[+5]% [Faith] [in all coastal cities]"
+                ],
+                "row": 1,
+                "column": 2
+            },
+            {
+                "name": "Holy capturing",
+                "uniques": [
+                    "Upon capturing a city, receive [5] times its [Faith] production as [Faith] immediately",
+                    "Upon capturing a city, receive [5] times its [Happiness] production as [Faith] immediately <while the empire is happy>"
+                ],
+                "row": 1,
+                "column": 4
+            },
+            {
+                "name": "Holy growth",
+                "requires": ["Holy sea"],
+                "uniques": [
+                    "[-5]% Culture cost of natural border growth [in all cities in which the majority religion is a enhanced religion] <while the empire is happy>"
+                ],
+                "row": 2,
+                "column": 2
+            },
+            {
+                "name": "Holy war",
+                "requires": ["Holy capturing"],
+                "uniques": [
+                    "Earn [1]% of the damage done to [Civilian] units as [Faith]",
+                    "Earn [2]% of the damage done to [Military] units as [Faith]",
+                    "Earn [1]% of the damage done to [Civilian] units as [Faith] <when fighting units from a Civilization with more Cities than you>",
+                    "Earn [3]% of the damage done to [Military] units as [Faith] <when fighting units from a Civilization with more Cities than you>"
+                ],
+                "row": 2,
+                "column": 4
+            },
+            {
+                "name": "Holy city",
+                "requires": ["Holy growth", "Holy war"],
+                "uniques": [
+                    "Enables conversion of city production to [Faith] <in cities with a [Cathedral]>",
+                    "Enables conversion of city production to [Faith] <in cities with a [Monastery]>",
+                    "Enables conversion of city production to [Faith] <in cities with a [Mosque]>",
+                    "Enables conversion of city production to [Faith] <in cities with a [Pagoda]>",
+                    "Enables conversion of city production to [Faith] <in cities with a [Stonehenge]>",
+                    "May buy [Civilian] units with [Faith] for [4] times their normal Production cost <in cities with a [Cathedral]>",
+                    "May buy [Civilian] units with [Faith] for [4] times their normal Production cost <in cities with a [Monastery]>",
+                    "May buy [Civilian] units with [Faith] for [4] times their normal Production cost <in cities with a [Monastery]>",
+                    "May buy [Civilian] units with [Faith] for [4] times their normal Production cost <in cities with a [Pagoda]>",
+                    "May buy [Civilian] units with [Faith] for [4] times their normal Production cost <in cities with a [Stonehenge]>"
+                ],
+                "row": 3,
+                "column": 3
+            },
+            {
+                "name": "Holy world Complete",
+                "uniques": ["Free Great Prophet"]
+            }
+        ]
+    }
+]

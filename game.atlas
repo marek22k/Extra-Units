@@ -32,6 +32,48 @@ BuildingIcons/Shooting range
   orig: 200, 200
   offset: 0, 0
   index: -1
+PolicyBranchIcons/Holy world
+  rotate: false
+  xy: 1668, 246
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+PolicyIcons/Holy capturing
+  rotate: false
+  xy: 120, 4
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+PolicyIcons/Holy city
+  rotate: false
+  xy: 1668, 304
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+PolicyIcons/Holy growth
+  rotate: false
+  xy: 1726, 362
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+PolicyIcons/Holy sea
+  rotate: false
+  xy: 1784, 420
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+PolicyIcons/Holy war
+  rotate: false
+  xy: 178, 4
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
 UnitIcons/Border Guard
   rotate: false
   xy: 4, 270
@@ -153,21 +195,21 @@ UnitPromotionIcons/Grandparents knowledge
   index: -1
 UnitPromotionIcons/Local knowledge
   rotate: false
-  xy: 120, 4
+  xy: 1726, 304
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Loyalty
   rotate: false
-  xy: 1668, 304
+  xy: 1784, 362
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Words of comfort
   rotate: false
-  xy: 1726, 362
+  xy: 1842, 420
   size: 50, 50
   orig: 50, 50
   offset: 0, 0

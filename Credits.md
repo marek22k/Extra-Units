@@ -33,6 +33,11 @@
 | Escape | b farias | [Noun Project](https://thenounproject.com/icon/escape-861467/) |
 | Words of comfort | Francielly Costantin Senra | [Noun Project](https://thenounproject.com/icon/heart-105248/) |
 | Grandparents knowledge | Llisole | [Noun Project](https://thenounproject.com/icon/grandparents-4183320/) |
+| Holy world | Soremba from | [Noun Project](https://thenounproject.com/icon/religion-3849069/) |
+| Holy war | Renee Ramsey-Passmore | [Noun Project](https://thenounproject.com/icon/religion-2353/) |
+| Holy city | Katunger | [Noun Project](https://thenounproject.com/icon/western-wall-354836/) |
+| Holy sea | Lagot Design | [Noun Project](https://thenounproject.com/icon/sea-3966030/) |
+| Holy growth | Iga | [Noun Project](https://thenounproject.com/icon/city-1741569/) |
 
 ## Software
 
