@@ -76,7 +76,8 @@
             },
             {
                 "name": "Holy world Complete",
-                "uniques": ["Free Great Prophet"]
+                "uniques": ["Free Great Person"]
+                // Free Great Prophet does not work, see https://github.com/yairm210/Unciv/issues/3242#issuecomment-1500504959
             }
         ]
     }
