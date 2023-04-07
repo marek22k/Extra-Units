@@ -6,7 +6,7 @@
     // 10+ Units
     //   11-20 Generic
     //   21-30 Frontier Hunter
-    //   31-40 Medic
+    //   31-40 Medical
 
     // Generic attributes
     // Mazbe add "May capture killed [Barbarians] units" somewhere
@@ -27,7 +27,7 @@
             "Melee Water",
             "Ranged Water",
             "Submarine",
-            "Medic",
+            "Medical",
             "Ranged Frontier Hunter"
         ],
         "row": 11,
@@ -51,7 +51,7 @@
             "Melee Water",
             "Ranged Water",
             "Submarine",
-            "Medic",
+            "Medical",
             "Ranged Frontier Hunter"
         ],
         "row": 11,
@@ -75,7 +75,7 @@
             "Melee Water",
             "Ranged Water",
             "Submarine",
-            "Medic",
+            "Medical",
             "Ranged Frontier Hunter"
         ],
         "row": 12,
@@ -99,7 +99,7 @@
             "Melee Water",
             "Ranged Water",
             "Submarine",
-            "Medic",
+            "Medical",
             "Ranged Frontier Hunter"
         ],
         "row": 12,
@@ -223,7 +223,7 @@
     {
 		"name": "Heal Instantly",
 		"uniques": ["Heal this unit by [150] HP", "Doing so will consume this opportunity to choose a Promotion"],
-		"unitTypes": ["Medic"],
+		"unitTypes": ["Medical"],
         "row": 1,
         "column": 0
     },
@@ -231,7 +231,7 @@
 		"name": "Escape I",
         "prerequisites": ["Grandparents knowledge"],
 		"uniques": ["[+1] Movement"],
-		"unitTypes": ["Medic"],
+		"unitTypes": ["Medical"],
         "row": 32,
         "column": 1
     },
@@ -239,21 +239,21 @@
 		"name": "Escape II",
         "prerequisites": ["Escape I"],
 		"uniques": ["Ignores Zone of Control"],
-		"unitTypes": ["Medic"],
+		"unitTypes": ["Medical"],
         "row": 33,
         "column": 2
     },
     {
 		"name": "Words of comfort",
 		"uniques": ["All healing effects doubled"],
-		"unitTypes": ["Medic"],
+		"unitTypes": ["Medical"],
         "row": 34,
         "column": 0
     },
     {
 		"name": "Grandparents knowledge",
 		"uniques": ["Unit will heal every turn, even if it performs an action"],
-		"unitTypes": ["Medic"],
+		"unitTypes": ["Medical"],
         "row": 35,
         "column": 0
     },
@@ -261,7 +261,7 @@
         "name": "Companionship",
         "prerequisites": ["Words of comfort", "Grandparents knowledge"],
 		"uniques": ["[+1] additional attacks per turn"],
-		"unitTypes": ["Medic"],
+		"unitTypes": ["Medical"],
         "row": 36,
         "column": 3
     }

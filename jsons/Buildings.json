@@ -24,7 +24,7 @@
         "requiredTech": "Radio",
 
         "uniques": [
-            "All newly-trained [Medic] units [in this city] receive the [Grandparents knowledge] promotion",
+            "All newly-trained [Medical] units [in this city] receive the [Grandparents knowledge] promotion",
             "Destroyed when the city is captured"],
 
         "cost": 150
@@ -54,9 +54,9 @@
         "requiredTech": "Biology",
 
         "uniques": [
-            "All newly-trained [Medic] units [in this city] receive the [Loyalty I] promotion",
-            "All newly-trained [Medic] units [in this city] receive the [Escape I] promotion",
-            "New [Medic] units start with [5] Experience [in this city]",
+            "All newly-trained [Medical] units [in this city] receive the [Loyalty I] promotion",
+            "All newly-trained [Medical] units [in this city] receive the [Escape I] promotion",
+            "New [Medical] units start with [5] Experience [in this city]",
             "Destroyed when the city is captured"],
 
         "cost": 300
@@ -74,7 +74,7 @@
         "requiredTech": "Radio",
 
         "uniques": [
-            "All newly-trained [Medic] units [in this city] receive the [Words of comfort] promotion",
+            "All newly-trained [Medical] units [in this city] receive the [Words of comfort] promotion",
             "Destroyed when the city is captured",
             "Requires a [Emergency service] in at least [4] cities"],
         
