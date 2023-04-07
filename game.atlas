@@ -25,51 +25,58 @@ BuildingIcons/Last division
   orig: 200, 200
   offset: 0, 0
   index: -1
+BuildingIcons/Medical School
+  rotate: false
+  xy: 836, 62
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
 BuildingIcons/Shooting range
   rotate: false
-  xy: 1252, 62
+  xy: 1460, 270
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 PolicyBranchIcons/Holy world
   rotate: false
-  xy: 1668, 246
+  xy: 1726, 154
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Holy capturing
   rotate: false
-  xy: 120, 4
+  xy: 1726, 212
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Holy city
   rotate: false
-  xy: 1668, 304
+  xy: 1876, 362
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Holy growth
   rotate: false
-  xy: 1726, 362
+  xy: 1934, 420
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Holy sea
   rotate: false
-  xy: 1784, 420
+  xy: 120, 4
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Holy war
   rotate: false
-  xy: 178, 4
+  xy: 1668, 96
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
@@ -118,42 +125,42 @@ UnitIcons/Healer
   index: -1
 UnitIcons/Paramedic
   rotate: false
-  xy: 836, 62
+  xy: 1044, 270
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Pharmacist
   rotate: false
-  xy: 1044, 270
+  xy: 1044, 62
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Ranger
   rotate: false
-  xy: 1044, 62
+  xy: 1252, 270
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Shaman
   rotate: false
-  xy: 1252, 270
+  xy: 1252, 62
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Stone thrower
   rotate: false
-  xy: 1460, 270
+  xy: 1460, 62
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Wise person
   rotate: false
-  xy: 1460, 62
+  xy: 1668, 270
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
@@ -167,49 +174,49 @@ UnitPromotionIcons/Capture
   index: -1
 UnitPromotionIcons/Companionship
   rotate: false
-  xy: 1668, 420
+  xy: 1668, 212
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Endurance
   rotate: false
-  xy: 62, 4
+  xy: 1876, 420
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Escape
   rotate: false
-  xy: 1668, 362
+  xy: 62, 4
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Grandparents knowledge
   rotate: false
-  xy: 1726, 420
+  xy: 1668, 154
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Local knowledge
   rotate: false
-  xy: 1726, 304
+  xy: 1784, 212
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Loyalty
   rotate: false
-  xy: 1784, 362
+  xy: 1876, 304
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Words of comfort
   rotate: false
-  xy: 1842, 420
+  xy: 1934, 362
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
