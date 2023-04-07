@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Ranged Frontier Hunter",
+        "steps": [
+            "Frontier Hunters are ranged units designed to protect your territory.",
+            "They have a big disadvantage outside your territory, but show their bloom when defending it.",
+            "They have great attack power and can be promoted with to protect your territory even better.",
+            "Fortify the units in your territory - never send them outside!"
+        ]
+    },
+    {
+        "name": "Medic",
+        "steps": [
+            "Medical units heal adjacent units.",
+            "They should never fight in the front line - but can defend themselves if necessary.",
+            "It is said that some have been taught their healing skills by their grandparents.",
+            "Promote them, so that they can heal their companions better!"
+        ]
+    }
+]
