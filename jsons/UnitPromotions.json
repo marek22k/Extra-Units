@@ -230,7 +230,7 @@
     {
 		"name": "Escape I",
         "prerequisites": ["Grandparents knowledge"],
-		"uniques": ["Ignores Zone of Control"],
+		"uniques": ["[+1] Movement"],
 		"unitTypes": ["Medic"],
         "row": 32,
         "column": 1
@@ -238,7 +238,7 @@
     {
 		"name": "Escape II",
         "prerequisites": ["Escape I"],
-		"uniques": ["[+1] Movement"],
+		"uniques": ["Ignores Zone of Control"],
 		"unitTypes": ["Medic"],
         "row": 33,
         "column": 2

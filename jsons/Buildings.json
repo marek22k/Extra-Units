@@ -45,6 +45,22 @@
 
         "cost": 120
     },
+    {
+        "name": "Medical School",
+        
+        "maintenance": 1,
+        "hurryCostModifier": 20,
+
+        "requiredTech": "Biology",
+
+        "uniques": [
+            "All newly-trained [Medic] units [in this city] receive the [Loyalty I] promotion",
+            "All newly-trained [Medic] units [in this city] receive the [Escape I] promotion",
+            "New [Medic] units start with [5] Experience [in this city]",
+            "Destroyed when the city is captured"],
+
+        "cost": 300
+    },
 
     // National wonders
     {
