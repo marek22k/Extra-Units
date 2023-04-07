@@ -3,7 +3,7 @@
         "name": "Clergyman",
         "faith": 1,
         "greatPersonPoints": {
-            "Great Prophet": 3
+            "Great Prophet": 1
         },
         "color": [255, 255, 255]
     }
