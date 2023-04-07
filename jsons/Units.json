@@ -42,6 +42,10 @@
         "obsoleteTech": "Construction",
         "upgradesTo": "Frontier Archer",
 
+        "uniques": [
+            "May upgrade to [Frontier Archer] through ruins-like effects"
+        ],
+
         "strength": 4,
         "rangedStrength": 8,
         "movement": 2,
@@ -56,6 +60,10 @@
         "requiredTech": "Construction",
         "obsoleteTech": "Machinery",
         "upgradesTo": "Frontier double archer",
+
+        "uniques": [
+            "May upgrade to [Frontier double archer] through ruins-like effects"
+        ],
 
         "strength": 5,
         "rangedStrength": 13,
@@ -137,7 +145,10 @@
         "obsoleteTech": "Philosophy",
         "upgradesTo": "Shaman",
 
-        "uniques": ["All adjacent units heal [+3] HP when healing"],
+        "uniques": [
+            "May upgrade to [Shaman] through ruins-like effects",
+            "All adjacent units heal [+3] HP when healing"
+        ],
 
         "strength": 4,
         "movement": 2,
@@ -153,7 +164,10 @@
         "obsoleteTech": "Chivalry",
         "upgradesTo": "Healer",
 
-        "uniques": ["All adjacent units heal [+6] HP when healing"],
+        "uniques": [
+            "May upgrade to [Healer] through ruins-like effects",
+            "All adjacent units heal [+6] HP when healing"
+        ],
 
         "strength": 7,
         "movement": 2,
