@@ -131,7 +131,7 @@
     // Medic supporter units,
     {
         "name": "Wise person",
-        "unitType": "Medic",
+        "unitType": "Medical",
 
         "requiredTech": "Writing",
         "obsoleteTech": "Philosophy",
@@ -147,7 +147,7 @@
     },
     {
         "name": "Shaman",
-        "unitType": "Medic",
+        "unitType": "Medical",
 
         "requiredTech": "Philosophy",
         "obsoleteTech": "Chivalry",
@@ -163,7 +163,7 @@
     },
     {
         "name": "Healer",
-        "unitType": "Medic",
+        "unitType": "Medical",
 
         "requiredTech": "Chivalry",
         "obsoleteTech": "Biology",
@@ -179,7 +179,7 @@
     },
     {
         "name": "Paramedic",
-        "unitType": "Medic",
+        "unitType": "Medical",
 
         "requiredTech": "Biology",
         "obsoleteTech": "Pharmaceuticals",
@@ -195,7 +195,7 @@
     },
     {
         "name": "Pharmacist",
-        "unitType": "Medic",
+        "unitType": "Medical",
 
         "requiredTech": "Pharmaceuticals",
 

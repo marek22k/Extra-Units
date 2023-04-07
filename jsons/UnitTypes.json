@@ -1,6 +1,6 @@
 [
     {
-        "name": "Medic",
+        "name": "Medical",
         "movementType": "Land",
         "uniques": [
             "May heal outside of friendly territory",
