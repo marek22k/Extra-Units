@@ -1,26 +1,5 @@
 [
     {
-        "name": "Last division",
-
-        "maintenance": 2,
-        "cityStrength": 20,
-        "cityHealth": 5,
-
-        "requiredTech": "Rifling",
-		"requiredBuilding": "Castle",
-        
-        "uniques": [
-            "New [Military] units start with [15] Experience [in this city]",
-            "Destroyed when the city is captured",
-            "Doubles Gold given to enemy if city is captured",
-            "[2] units cost no maintenance",
-            "Can only be built [in capital]"
-        ],
-
-        "isNationalWonder": true,
-        "cost": 300
-    },
-    {
         "name": "Shooting range",
 
         "maintenance": 1,
@@ -51,6 +30,24 @@
         "cost": 150
     },
     {
+        // Idea stolen from UnCiv-Logicians
+        "name": "Long time archive",
+
+        "maintenance": 1,
+        "science": 6,
+
+        "requiredTech": "Replaceable Parts",
+
+        "uniques": [
+            "Must be next to [Mountain]",
+            "Must be next to [Snow]",
+            "[+1 Science] per [2] population [in this city]"],
+
+        "cost": 120
+    },
+
+    // National wonders
+    {
         "name": "Crisis helpline",
 
         "maintenance": 1,
@@ -69,19 +66,24 @@
         "cost": 125
     },
     {
-        // Idea stolen from UnCiv-Logicians
-        "name": "Long time archive",
+        "name": "Last division",
 
-        "maintenance": 1,
-        "science": 6,
+        "maintenance": 2,
+        "cityStrength": 20,
+        "cityHealth": 5,
 
-        "requiredTech": "Replaceable Parts",
-
+        "requiredTech": "Rifling",
+		"requiredBuilding": "Castle",
+        
         "uniques": [
-            "Must be next to [Mountain]",
-            "Must be next to [Snow]",
-            "[+1 Science] per [2] population [in this city]"],
+            "New [Military] units start with [15] Experience [in this city]",
+            "Destroyed when the city is captured",
+            "Doubles Gold given to enemy if city is captured",
+            "[2] units cost no maintenance",
+            "Can only be built [in capital]"
+        ],
 
-        "cost": 120
+        "isNationalWonder": true,
+        "cost": 300
     }
 ]
