@@ -1,5 +1,7 @@
 # Credits
 
+Many thanks to the people on GitHub and Discord who helped me with some problems!
+
 ## Hosting
 
 - [Codeberg](https://codeberg.org/mark22k/UnCiv-Extra-Units)

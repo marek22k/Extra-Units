@@ -76,7 +76,130 @@
             },
             {
                 "name": "Holy world Complete",
-                "uniques": ["[1] free [Great Prophet] units appear"]
+                "uniques": ["Free [Great Prophet] appears"]
+            }
+        ]
+    },
+    {
+        "name": "Religious world",
+        "era": "Ancient era",
+        "priorities": {
+            "Neutral": 0,
+            "Cultural": 5,
+            "Diplomatic": 5,
+            "Domination": 5,
+            "Scientific": 5
+        },
+        "uniques": [
+            "Gain [10] [Faith]",
+            "Only available <after founding a Pantheon>"
+        ],
+        "policies": [
+            {
+                "name": "Religious propagation",
+                "uniques": [
+                    "Provides the cheapest [Faith] building in your first [4] cities for free"
+                ],
+                "row": 1,
+                "column": 2
+            },
+            {
+                "name": "Religious hope",
+                "uniques": [
+                    "Gain enough Faith for [20]% of a Great Prophet"
+                ],
+                "row": 1,
+                "column": 4
+            },
+            {
+                "name": "Religious strengthening",
+                "requires": ["Religious propagation"],
+                "uniques": [
+                    "Gain a free [Pantheon] belief"
+                ],
+                "row": 2,
+                "column": 2
+            },
+            {
+                "name": "Religious followers",
+                "requires": ["Religious hope"],
+                "uniques": [
+                    "Gain a free [Follower] belief"
+                ],
+                "row": 2,
+                "column": 4
+            },
+            {
+                "name": "Religious extermination",
+                "requires": ["Religious strengthening", "Religious followers"],
+                "uniques": [
+                    "Free [Inquisitor] appears"
+                ],
+                "row": 3,
+                "column": 2
+            },
+            {
+                "name": "Religious diplomacy",
+                "requires": ["Religious strengthening", "Religious followers"],
+                "uniques": [
+                    "Free [Missionary] appears"
+                ],
+                "row": 3,
+                "column": 4
+            },
+            {
+                "name": "Religious world Complete",
+                "uniques": ["Resting point for Influence with City-States following this religion [5]"]
+            }
+        ]
+    },
+    {
+        "name": "New world",
+        "era": "Ancient era",
+        "priorities": {
+            "Neutral": 10,
+            "Cultural": 0,
+            "Diplomatic": 0,
+            "Domination": 5,
+            "Scientific": 0
+        },
+        "uniques": [
+            "[2] population in a random city"
+        ],
+        "policies": [
+            {
+                "name": "Explorer",
+                "uniques": [
+                    "Free [Scout] appears",
+                    "Gain [20] [Gold]"
+                ],
+                "row": 1,
+                "column": 1
+            },
+            {
+                "name": "Establishment",
+                "uniques": [
+                    "Free [Settler] appears",
+                    "Gain [3] [Culture]"
+                ],
+                "row": 1,
+                "column": 3
+            },
+            {
+                "name": "Defense expansion",
+                "uniques": [
+                    "Free [Ranged Frontier Hunter] appears",
+                    "Gain [3] [Production]"
+                ],
+                "row": 1,
+                "column": 5
+            },
+            {
+                "name": "New world Complete",
+                "uniques": [
+                    "Free Technology",
+                    "Gain [20] [Science]"
+                ]
             }
         ]
     }
