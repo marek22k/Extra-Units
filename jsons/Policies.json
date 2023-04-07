@@ -207,9 +207,7 @@
                 "name": "New world Complete",
                 "uniques": [
                     "Gain [20] [Science]",
-                    "Gain [20] [Gold]",
-                    "Gain [10] [Production]",
-                    "[1] units cost no maintenance"
+                    "Free Technology"
                 ]
             }
         ]
