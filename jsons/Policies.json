@@ -91,7 +91,7 @@
             "Scientific": 5
         },
         "uniques": [
-            "Gain [10] [Faith]",
+            "Gain enough Faith for [5]% of a Great Prophet",
             "Only available <after founding a Pantheon>"
         ],
         "policies": [
@@ -106,7 +106,7 @@
             {
                 "name": "Religious hope",
                 "uniques": [
-                    "Gain enough Faith for [20]% of a Great Prophet"
+                    "Gain enough Faith for [25]% of a Great Prophet"
                 ],
                 "row": 1,
                 "column": 4
