@@ -195,10 +195,21 @@
                 "column": 5
             },
             {
+                "name": "War preparations",
+                "requires": ["Defense expansion"],
+                "uniques": [
+                    "[3] units cost no maintenance"
+                ],
+                "row": 2,
+                "column": 5
+            },
+            {
                 "name": "New world Complete",
                 "uniques": [
-                    "Free Technology",
-                    "Gain [20] [Science]"
+                    "Gain [20] [Science]",
+                    "Gain [20] [Gold]",
+                    "Gain [10] [Production]",
+                    "[1] units cost no maintenance"
                 ]
             }
         ]

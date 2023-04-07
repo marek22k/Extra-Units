@@ -41,6 +41,18 @@ Many thanks to the people on GitHub and Discord who helped me with some problems
 | Holy sea | Lagot Design | [Noun Project](https://thenounproject.com/icon/sea-3966030/) |
 | Holy growth | Iga | [Noun Project](https://thenounproject.com/icon/city-1741569/) |
 | Medical School | Puspito | [Noun Project](https://thenounproject.com/icon/medical-school-5614302/) |
+| New world | Guilherme Furtado | [Noun Project](https://thenounproject.com/icon/world-1627682/) |
+| Explorer | Richard | [Noun Project](https://thenounproject.com/icon/explorer-1749805/) |
+| Establishment | Marie Van den Broeck | [Noun Project](https://thenounproject.com/icon/establishment-325973/) |
+| Defense expansion | alrigel | [Noun Project](https://thenounproject.com/icon/shield-1168371/) |
+| Religious diplomacy | Amethyst Studio | [Noun Project](https://thenounproject.com/icon/diplomacy-5217559/) |
+| Religious extermination | FARHAN NURHUDA | [Noun Project](https://thenounproject.com/icon/target-5647183/) |
+| Religious followers | Studio Paw | [Noun Project](https://thenounproject.com/icon/followers-3093047/) |
+| Religious hope | Bernd Lakenbrink | [Noun Project](https://thenounproject.com/icon/praying-hands-4843177/) |
+| Religious propagation | Ida Desi Mariana | [Noun Project](https://thenounproject.com/icon/poster-5646299/) |
+| Religious world | Jesus Jezzini De Anda | [Noun Project](https://thenounproject.com/icon/eye-1634252/) |
+| Religious strengthening | M. Oki Orlando | [Noun Project](https://thenounproject.com/icon/reinforcement-learning-4998429/) |
+| War preparations | Adrien Coquet | [Noun Project](https://thenounproject.com/icon/weapon-4847154/) |
 
 ## Software
 

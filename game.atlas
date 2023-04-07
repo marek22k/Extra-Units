@@ -41,42 +41,126 @@ BuildingIcons/Shooting range
   index: -1
 PolicyBranchIcons/Holy world
   rotate: false
-  xy: 1726, 154
+  xy: 1934, 362
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
-PolicyIcons/Holy capturing
+PolicyBranchIcons/New world
+  rotate: false
+  xy: 1726, 96
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+PolicyBranchIcons/Religious world
+  rotate: false
+  xy: 294, 4
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+PolicyIcons/Defense expansion
+  rotate: false
+  xy: 1876, 420
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+PolicyIcons/Establishment
   rotate: false
   xy: 1726, 212
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
-PolicyIcons/Holy city
+PolicyIcons/Explorer
   rotate: false
   xy: 1876, 362
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
-PolicyIcons/Holy growth
-  rotate: false
-  xy: 1934, 420
-  size: 50, 50
-  orig: 50, 50
-  offset: 0, 0
-  index: -1
-PolicyIcons/Holy sea
+PolicyIcons/Holy capturing
   rotate: false
   xy: 120, 4
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
-PolicyIcons/Holy war
+PolicyIcons/Holy city
   rotate: false
   xy: 1668, 96
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+PolicyIcons/Holy growth
+  rotate: false
+  xy: 1726, 154
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+PolicyIcons/Holy sea
+  rotate: false
+  xy: 1784, 212
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+PolicyIcons/Holy war
+  rotate: false
+  xy: 1876, 304
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+PolicyIcons/Religious diplomacy
+  rotate: false
+  xy: 1784, 154
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+PolicyIcons/Religious extermination
+  rotate: false
+  xy: 1934, 304
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+PolicyIcons/Religious followers
+  rotate: false
+  xy: 1992, 362
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+PolicyIcons/Religious hope
+  rotate: false
+  xy: 236, 4
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+PolicyIcons/Religious propagation
+  rotate: false
+  xy: 1784, 96
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+PolicyIcons/Religious strengthening
+  rotate: false
+  xy: 1992, 304
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+PolicyIcons/War preparations
+  rotate: false
+  xy: 352, 4
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
@@ -181,42 +265,42 @@ UnitPromotionIcons/Companionship
   index: -1
 UnitPromotionIcons/Endurance
   rotate: false
-  xy: 1876, 420
+  xy: 62, 4
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Escape
   rotate: false
-  xy: 62, 4
+  xy: 1668, 154
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Grandparents knowledge
   rotate: false
-  xy: 1668, 154
+  xy: 1934, 420
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Local knowledge
   rotate: false
-  xy: 1784, 212
+  xy: 1992, 420
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Loyalty
   rotate: false
-  xy: 1876, 304
+  xy: 178, 4
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Words of comfort
   rotate: false
-  xy: 1934, 362
+  xy: 410, 4
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
