@@ -56,20 +56,13 @@
                 "name": "Holy city",
                 "requires": ["Holy growth", "Holy war"],
                 "uniques": [
-                    // "Enables conversion of city production to [Faith] <in cities with a [Cathedral]>",
-                    // "Enables conversion of city production to [Faith] <in cities with a [Monastery]>",
-                    // "Enables conversion of city production to [Faith] <in cities with a [Mosque]>",
-                    // "Enables conversion of city production to [Faith] <in cities with a [Pagoda]>",
-                    // "Enables conversion of city production to [Faith] <in cities with a [Stonehenge]>",
-                    // Currently does not work, see https://github.com/yairm210/Unciv/issues/9134
+                    "Enables conversion of city production to [Faith] <in cities with a [Cathedral]>",
+                    "Enables conversion of city production to [Faith] <in cities with a [Monastery]>",
+                    "Enables conversion of city production to [Faith] <in cities with a [Mosque]>",
+                    "Enables conversion of city production to [Faith] <in cities with a [Pagoda]>",
+                    "Enables conversion of city production to [Faith] <in cities with a [Stonehenge]>",
 
                     "[+5 Faith] per [10] population [in holy cities]",
-
-                    "May buy [Civilian] units with [Faith] for [4] times their normal Production cost <in cities with a [Cathedral]>",
-                    "May buy [Civilian] units with [Faith] for [4] times their normal Production cost <in cities with a [Monastery]>",
-                    "May buy [Civilian] units with [Faith] for [4] times their normal Production cost <in cities with a [Monastery]>",
-                    "May buy [Civilian] units with [Faith] for [4] times their normal Production cost <in cities with a [Pagoda]>",
-                    "May buy [Civilian] units with [Faith] for [4] times their normal Production cost <in cities with a [Stonehenge]>"
                 ],
                 "row": 3,
                 "column": 3
