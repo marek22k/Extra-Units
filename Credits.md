@@ -53,6 +53,11 @@ Many thanks to the people on GitHub and Discord who helped me with some problems
 | Religious world | Jesus Jezzini De Anda | [Noun Project](https://thenounproject.com/icon/eye-1634252/) |
 | Religious strengthening | M. Oki Orlando | [Noun Project](https://thenounproject.com/icon/reinforcement-learning-4998429/) |
 | War preparations | Adrien Coquet | [Noun Project](https://thenounproject.com/icon/weapon-4847154/) |
+| Beautiful world | Oh Rian | [Noun Project](https://thenounproject.com/icon/butterfly-5651047/) |
+| Coastal trade | bezier master | [Noun Project](https://thenounproject.com/icon/trade-1036606/) |
+| Overhappiness | Adrien Coquet | [Noun Project](https://thenounproject.com/icon/happiness-4211276/) |
+| Holy wealth | Srinivas Agra | [Noun Project](https://thenounproject.com/icon/wealth-4328682/) |
+| Role models | Eucalyp | [Noun Project](https://thenounproject.com/icon/actor-4639491/) |
 
 ## Software
 

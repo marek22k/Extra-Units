@@ -204,5 +204,64 @@
                 ]
             }
         ]
+    },
+    {
+        "name": "Beautiful world",
+        "era": "Classical era",
+        "priorities": {
+            "Neutral": 3,
+            "Cultural": 10,
+            "Diplomatic": 0,
+            "Domination": 3,
+            "Scientific": 0
+        },
+        "uniques": [
+            "Free [Great Merchant] appears",
+            "Free [Great Artist] appears",
+            "Only available <after adopting [New world]>"
+        ],
+        "policies": [
+            {
+                "name": "Role models",
+                "uniques": [
+                    "[+10]% Production towards any buildings that already exist in the Capital"
+                ],
+                "row": 1,
+                "column": 1
+            },
+            {
+                "name": "Coastal trade",
+                "uniques": [
+                    "[+25]% [Gold] [in all coastal cities]"
+                ],
+                "row": 1,
+                "column": 3
+            },
+            {
+                "name": "Holy wealth",
+                "requires": ["Coastal trade"],
+                "uniques": [
+                    "[+1 Gold] per [1] population [in holy cities]"
+                ],
+                "row": 2,
+                "column": 3
+            },
+            {
+                "name": "Overhappiness",
+                "requires": ["Defense expansion"],
+                "uniques": [
+                    "[+20]% of excess happiness converted to [Culture]"
+                ],
+                "row": 1,
+                "column": 5
+            },
+            {
+                "name": "Beautiful world Complete",
+                "uniques": [
+                    "[-20]% Culture cost of adopting new Policies",
+                    "Free Social Policy"
+                ]
+            }
+        ]
     }
 ]
