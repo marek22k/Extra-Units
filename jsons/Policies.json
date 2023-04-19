@@ -11,7 +11,9 @@
         },
         "uniques": [
             "Gain enough Faith for [50]% of a Great Prophet",
-            "Only available <after adopting [Piety]>"
+            "Only available <after discovering [Theology]>",
+            "Only available <after discovering [Printing press]>"
+            // see https://github.com/yairm210/Unciv/issues/3242#issuecomment-1514617790
         ],
         "policies": [
             {
