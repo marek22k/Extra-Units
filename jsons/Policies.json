@@ -250,7 +250,6 @@
             },
             {
                 "name": "Overhappiness",
-                "requires": ["Defense expansion"],
                 "uniques": [
                     "[+20]% of excess happiness converted to [Culture]"
                 ],
