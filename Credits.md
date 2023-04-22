@@ -58,6 +58,8 @@ Many thanks to the people on GitHub and Discord who helped me with some problems
 | Overhappiness | Adrien Coquet | [Noun Project](https://thenounproject.com/icon/happiness-4211276/) |
 | Holy wealth | Srinivas Agra | [Noun Project](https://thenounproject.com/icon/wealth-4328682/) |
 | Role models | Eucalyp | [Noun Project](https://thenounproject.com/icon/actor-4639491/) |
+| Parliament | Adrien Coquet | [Noun Project](https://thenounproject.com/icon/parliament-3777183/) |
+| Therapy Center | Khoirin | [Noun Project](https://thenounproject.com/icon/therapy-5397289/) |
 
 ## Software
 
