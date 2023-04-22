@@ -76,6 +76,20 @@
 
         "cost": 600
     },
+    {
+        "name": "Cemetery",
+        
+        "maintenance": 1,
+        "cityStrength": 5,
+        "faith": 2,
+        "happiness": 1,
+
+        "requiredTech": "Theology",
+
+        "uniques": ["Destroyed when the city is captured"],
+
+        "cost": 300
+    },
 
     // National wonders
     {
