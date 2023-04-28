@@ -61,6 +61,35 @@
 
         "cost": 300
     },
+    {
+        "name": "Therapy Center",
+        
+        "maintenance": 2,
+        "hurryCostModifier": 30,
+        "cityHealth": 5,
+        "science": 3,
+        "happiness": 2,
+
+        "requiredTech": "Biology",
+
+        "uniques": ["Destroyed when the city is captured"],
+
+        "cost": 600
+    },
+    {
+        "name": "Cemetery",
+        
+        "maintenance": 1,
+        "cityStrength": 5,
+        "faith": 2,
+        "happiness": 1,
+
+        "requiredTech": "Theology",
+
+        "uniques": ["Destroyed when the city is captured"],
+
+        "cost": 300
+    },
 
     // National wonders
     {
@@ -101,5 +130,35 @@
 
         "isNationalWonder": true,
         "cost": 300
+    },
+    {
+        "name": "Parliament",
+        
+        "maintenance": 3,
+        "culture": 3,
+
+        "requiredTech": "Civil Service",
+        "requiredBuilding": "Monument",
+
+        "uniques": [
+            "[+1 Culture] [in all cities]",
+            "[+1 Culture, +2 Science] per [1] social policies adopted",
+            "[+10]% [Culture] [in all cities connected to capital]",
+            "[+5]% [Culture]",
+
+            "[2] Free Social Policies",
+            "[+1] population [in all cities]",
+            "Reveal up to [5] [River] within a [40] tile radius",
+
+            "Hidden until [2] social policy branches have been completed",
+            "Requires at least [4] population",
+            "Destroyed when the city is captured",
+            "Cost increases by [30] per owned city",
+            "Cannot be purchased",
+            "Unsellable"
+        ],
+
+        "isNationalWonder": true,
+        "cost": 400
     }
 ]
