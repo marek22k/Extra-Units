@@ -46,10 +46,10 @@
                 "name": "Holy war",
                 "requires": ["Holy capturing"],
                 "uniques": [
-                    "Earn [1]% of the damage done to [Civilian] units as [Faith]",
-                    "Earn [2]% of the damage done to [Military] units as [Faith]",
-                    "Earn [1]% of the damage done to [Civilian] units as [Faith] <when fighting units from a Civilization with more Cities than you>",
-                    "Earn [3]% of the damage done to [Military] units as [Faith] <when fighting units from a Civilization with more Cities than you>"
+                    "Earn [25]% of the damage done to [Civilian] units as [Faith]",
+                    "Earn [50]% of the damage done to [Military] units as [Faith]",
+                    "Earn [35]% of the damage done to [Civilian] units as [Faith] <when fighting units from a Civilization with more Cities than you>",
+                    "Earn [70]% of the damage done to [Military] units as [Faith] <when fighting units from a Civilization with more Cities than you>"
                 ],
                 "row": 2,
                 "column": 4
