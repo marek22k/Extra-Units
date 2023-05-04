@@ -61,6 +61,11 @@ Many thanks to the people on GitHub and Discord who helped me with some problems
 | Parliament | Adrien Coquet | [Noun Project](https://thenounproject.com/icon/parliament-3777183/) |
 | Therapy Center | Khoirin | [Noun Project](https://thenounproject.com/icon/therapy-5397289/) |
 | Cemetery | Made | [Noun Project](https://thenounproject.com/icon/cemetery-1181808/) |
+| Long time archive | Alexander Skowalsky | [Noun Project](https://thenounproject.com/icon/cave-200363/) |
+| Puppet theater | Philipp Petzka | [Noun Project](https://thenounproject.com/icon/puppet-theater-3991866/) |
+| Cuddly toy factory | Olena Panasovska | [Noun Project](https://thenounproject.com/icon/comforter-1553659/) |
+| Cuddly toy store | Phạm Thanh Loc | [Noun Project](https://thenounproject.com/icon/fluffy-2960742/) |
+| Cuddly toy repair center | Vectors Market | [Noun Project](https://thenounproject.com/icon/fluffy-monster-1849753/) |
 
 ## Software
 

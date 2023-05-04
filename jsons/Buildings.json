@@ -90,6 +90,22 @@
 
         "cost": 300
     },
+    {
+        "name": "Cuddly toy store",
+        
+        "maintenance": 1,
+        "culture": 2,
+        "happiness": 1,
+
+        "requiredTech": "Railroads",
+
+        "uniques": [
+            "Requires a [Cuddly toy factory] in at least [1] cities",
+            "Destroyed when the city is captured"
+        ],
+
+        "cost": 300
+    },
 
     // National wonders
     {
@@ -156,6 +172,66 @@
             "Cost increases by [30] per owned city",
             "Cannot be purchased",
             "Unsellable"
+        ],
+
+        "isNationalWonder": true,
+        "cost": 400
+    },
+    {
+        "name": "Puppet theater",
+        
+        "maintenance": 2,
+        "culture": 5,
+        "happiness": 1,
+
+        "requiredTech": "Metal Casting",
+        "requiredBuilding": "Amphitheater",
+
+        "uniques": [
+            "[+10 Culture] per [2] social policies adopted",
+            "[+50]% [Culture]",
+            "Destroyed when the city is captured"
+        ],
+
+        "isNationalWonder": true,
+        "cost": 400
+    },
+    {
+        "name": "Cuddly toy factory",
+        
+        "maintenance": 2,
+        "culture": 3,
+        "happiness": 3,
+
+        "requiredTech": "Industrialization",
+        "requiredBuilding": "Factory",
+
+        "uniques": [
+            "Requires at least [4] population",
+            "[+1 Culture] from all [Culture] buildings",
+            "Destroyed when the city is captured"
+        ],
+
+        "isNationalWonder": true,
+        "cost": 400
+    },
+    {
+        "name": "Cuddly toy repair center",
+        
+        "maintenance": 2,
+        "culture": 2,
+        "happiness": 4,
+
+        "requiredTech": "Replaceable Parts",
+        "requiredBuilding": "Cuddly toy store",
+
+        "uniques": [
+            "Requires a [Cuddly toy factory] in at least [1] cities",
+            "Requires a [Public School] in at least [1] cities",
+            "Requires at least [8] population",
+            "[+1 Culture] from all [Happiness] buildings",
+            "[+1 Culture] from all [Faith] buildings",
+            "Destroyed when the city is captured"
         ],
 
         "isNationalWonder": true,
