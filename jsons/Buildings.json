@@ -106,6 +106,22 @@
 
         "cost": 300
     },
+    {
+        "name": "Adult Education Center",
+        
+        "maintenance": 2,
+        "culture": 5,
+
+        "requiredTech": "Steam Power",
+		"requiredBuilding": "Public School",
+
+        "uniques": [
+            "Requires at least [10] population",
+            "Destroyed when the city is captured"
+        ],
+
+        "cost": 400
+    },
 
     // National wonders
     {
@@ -167,7 +183,7 @@
             "Reveal up to [5] [River] within a [40] tile radius",
 
             "Hidden until [2] social policy branches have been completed",
-            "Requires at least [4] population",
+            "Requires at least [10] population",
             "Destroyed when the city is captured",
             "Cost increases by [30] per owned city",
             "Cannot be purchased",

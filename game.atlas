@@ -4,93 +4,100 @@ size: 2048, 1024
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-BuildingIcons/Cemetery
+BuildingIcons/Adult Education Center
   rotate: false
-  xy: 212, 802
+  xy: 4, 802
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
-BuildingIcons/Crisis helpline
+BuildingIcons/Cemetery
   rotate: false
   xy: 4, 386
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
-BuildingIcons/Cuddly toy factory
+BuildingIcons/Crisis helpline
   rotate: false
   xy: 212, 594
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
-BuildingIcons/Cuddly toy repair center
+BuildingIcons/Cuddly toy factory
   rotate: false
   xy: 420, 802
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
-BuildingIcons/Cuddly toy store
+BuildingIcons/Cuddly toy repair center
   rotate: false
   xy: 4, 178
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
-BuildingIcons/Emergency service
+BuildingIcons/Cuddly toy store
   rotate: false
   xy: 212, 386
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
-BuildingIcons/Last division
+BuildingIcons/Emergency service
   rotate: false
-  xy: 628, 594
+  xy: 420, 594
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
-BuildingIcons/Long time archive
+BuildingIcons/Last division
   rotate: false
   xy: 836, 802
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
-BuildingIcons/Medical School
+BuildingIcons/Long time archive
   rotate: false
   xy: 420, 178
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
+BuildingIcons/Medical School
+  rotate: false
+  xy: 628, 386
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
 BuildingIcons/Parliament
   rotate: false
-  xy: 836, 594
+  xy: 1044, 802
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Puppet theater
   rotate: false
-  xy: 628, 178
+  xy: 836, 386
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Shooting range
   rotate: false
-  xy: 1252, 802
+  xy: 836, 178
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Therapy Center
   rotate: false
-  xy: 1044, 386
+  xy: 1252, 594
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
@@ -104,7 +111,7 @@ PolicyBranchIcons/Beautiful world
   index: -1
 PolicyBranchIcons/Holy world
   rotate: false
-  xy: 1518, 894
+  xy: 62, 62
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
@@ -118,77 +125,77 @@ PolicyBranchIcons/New world
   index: -1
 PolicyBranchIcons/Religious world
   rotate: false
-  xy: 1460, 778
+  xy: 1668, 836
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Coastal trade
   rotate: false
-  xy: 1044, 328
+  xy: 1252, 536
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Defense expansion
   rotate: false
-  xy: 4, 62
+  xy: 1668, 952
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Establishment
   rotate: false
-  xy: 1518, 952
+  xy: 1044, 270
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Explorer
   rotate: false
-  xy: 1044, 270
+  xy: 1102, 328
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Holy capturing
   rotate: false
-  xy: 1252, 478
+  xy: 1310, 536
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Holy city
   rotate: false
-  xy: 1310, 536
+  xy: 1460, 686
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Holy growth
   rotate: false
-  xy: 4, 4
+  xy: 1518, 744
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Holy sea
   rotate: false
-  xy: 62, 62
+  xy: 1668, 894
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Holy war
   rotate: false
-  xy: 120, 120
+  xy: 1726, 952
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Holy wealth
   rotate: false
-  xy: 1460, 836
+  xy: 4, 4
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
@@ -223,161 +230,161 @@ PolicyIcons/Religious followers
   index: -1
 PolicyIcons/Religious hope
   rotate: false
-  xy: 62, 4
+  xy: 1460, 628
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Religious propagation
   rotate: false
-  xy: 120, 62
+  xy: 1518, 686
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Religious strengthening
   rotate: false
-  xy: 178, 120
+  xy: 1576, 744
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Role models
   rotate: false
-  xy: 1518, 836
+  xy: 1726, 894
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/War preparations
   rotate: false
-  xy: 1576, 894
+  xy: 1784, 952
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitIcons/Border Guard
   rotate: false
-  xy: 4, 802
+  xy: 4, 594
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Border Patrol
   rotate: false
-  xy: 4, 594
+  xy: 212, 802
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Frontier Archer
   rotate: false
-  xy: 420, 594
+  xy: 628, 802
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Frontier Hunter
   rotate: false
-  xy: 628, 802
+  xy: 212, 178
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Frontier double archer
   rotate: false
-  xy: 212, 178
+  xy: 420, 386
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Healer
   rotate: false
-  xy: 420, 386
+  xy: 628, 594
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Paramedic
   rotate: false
-  xy: 628, 386
+  xy: 836, 594
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Pharmacist
   rotate: false
-  xy: 1044, 802
+  xy: 628, 178
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Ranger
   rotate: false
-  xy: 836, 386
+  xy: 1044, 594
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Shaman
   rotate: false
-  xy: 1044, 594
+  xy: 1252, 802
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Stone thrower
   rotate: false
-  xy: 836, 178
+  xy: 1044, 386
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Wise person
   rotate: false
-  xy: 1252, 594
+  xy: 1460, 802
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Capture
   rotate: false
-  xy: 1460, 952
+  xy: 1044, 328
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Companionship
   rotate: false
-  xy: 1252, 536
+  xy: 1460, 744
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Endurance
   rotate: false
-  xy: 62, 120
+  xy: 4, 62
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Escape
   rotate: false
-  xy: 1460, 894
+  xy: 62, 120
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Grandparents knowledge
   rotate: false
-  xy: 1102, 328
+  xy: 1252, 478
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Local knowledge
   rotate: false
-  xy: 1576, 952
+  xy: 120, 120
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
@@ -391,7 +398,7 @@ UnitPromotionIcons/Loyalty
   index: -1
 UnitPromotionIcons/Words of comfort
   rotate: false
-  xy: 1634, 952
+  xy: 62, 4
   size: 50, 50
   orig: 50, 50
   offset: 0, 0

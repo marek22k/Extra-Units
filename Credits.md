@@ -66,6 +66,7 @@ Many thanks to the people on GitHub and Discord who helped me with some problems
 | Cuddly toy factory | Olena Panasovska | [Noun Project](https://thenounproject.com/icon/comforter-1553659/) |
 | Cuddly toy store | Phạm Thanh Loc | [Noun Project](https://thenounproject.com/icon/fluffy-2960742/) |
 | Cuddly toy repair center | Vectors Market | [Noun Project](https://thenounproject.com/icon/fluffy-monster-1849753/) |
+| Adult Education Center | iconfield | [Noun Project](https://thenounproject.com/icon/school-5276697/) |
 
 ## Software
 
