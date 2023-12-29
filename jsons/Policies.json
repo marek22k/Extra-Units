@@ -37,7 +37,7 @@
                 "name": "Holy growth",
                 "requires": ["Holy sea"],
                 "uniques": [
-                    "[-5]% Culture cost of natural border growth [in all cities in which the majority religion is a enhanced religion] <while the empire is happy>"
+                    "[-5]% Culture cost of natural border growth [in all cities in which the majority religion is an enhanced religion] <while the empire is happy>"
                 ],
                 "row": 2,
                 "column": 2
