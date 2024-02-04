@@ -169,7 +169,8 @@
                     "Free [Scout] appears",
                     "Gain [100] [Gold]",
                     /* Waiting for https://github.com/yairm210/Unciv/issues/3242#issuecomment-1925894747 */
-                    "[Scout] units gain the [Scouting II] promotion",
+                    "[Scout] units gain the [Scouting I] promotion",
+                    "[Scout] units gain the [Survivalism I] promotion",
                     "[Scout] units gain the [Survivalism II] promotion",
                     "[Scout] units gain the [Survivalism III] promotion"
                 ],
