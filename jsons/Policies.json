@@ -159,14 +159,19 @@
             "Scientific": 0
         },
         "uniques": [
-            "[2] population in a random city"
+            "Free [Worker] appears",
+            "Free Social Policy"
         ],
         "policies": [
             {
                 "name": "Explorer",
                 "uniques": [
                     "Free [Scout] appears",
-                    "Gain [50] [Gold]"
+                    "Gain [100] [Gold]",
+                    /* Waiting for https://github.com/yairm210/Unciv/issues/3242#issuecomment-1925894747 */
+                    "[Scout] units gain the [Scouting II] promotion",
+                    "[Scout] units gain the [Survivalism II] promotion",
+                    "[Scout] units gain the [Survivalism III] promotion"
                 ],
                 "row": 1,
                 "column": 1
@@ -175,7 +180,8 @@
                 "name": "Establishment",
                 "uniques": [
                     "Free [Settler] appears",
-                    "Gain [10] [Culture]"
+                    "Gain [100] [Culture]",
+                    "[+2 Culture] for every known Natural Wonder"
                 ],
                 "row": 1,
                 "column": 3
@@ -184,7 +190,8 @@
                 "name": "Defense expansion",
                 "uniques": [
                     "Free [Frontier double archer] appears",
-                    "Gain [50] [Gold]"
+                    "Gain [150] [Gold]",
+                    "[10]% Strength for cities"
                 ],
                 "row": 1,
                 "column": 5
@@ -193,7 +200,8 @@
                 "name": "War preparations",
                 "requires": ["Defense expansion"],
                 "uniques": [
-                    "[3] units cost no maintenance"
+                    "[5] units cost no maintenance",
+                    "[5]% to Flank Attack bonuses"
                 ],
                 "row": 2,
                 "column": 5
@@ -201,7 +209,7 @@
             {
                 "name": "New world Complete",
                 "uniques": [
-                    "Gain [20] [Science]",
+                    "Provides a [Barbed wire] in your first [2] cities for free",
                     "Free Technology"
                 ]
             }

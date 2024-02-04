@@ -122,6 +122,20 @@
 
         "cost": 400
     },
+    {
+        "name": "Barbed wire",
+
+        "cityStrength": 10,
+        "cityHealth": 10,
+
+        "uniques": [
+            "Unbuildable",
+            "Cannot be purchased",
+            "Limited to [2] per Civilization"
+        ],
+
+        "maintenance": 0
+    }
 
     // National wonders
     {
