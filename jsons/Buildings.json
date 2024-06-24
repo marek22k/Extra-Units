@@ -100,7 +100,7 @@
         "requiredTech": "Railroads",
 
         "uniques": [
-            "Requires a [Cuddly toy factory] in at least [1] cities",
+            "Only available <if [Cuddly toy factory] is constructed in at least [1] of [All] cities>",
             "Destroyed when the city is captured"
         ],
 
@@ -151,7 +151,8 @@
         "uniques": [
             "All newly-trained [Medical] units [in this city] receive the [Words of comfort] promotion",
             "Destroyed when the city is captured",
-            "Requires a [Emergency service] in at least [4] cities"],
+            "Only available <if [Emergency service] is constructed in at least [4] of [All] cities>"
+        ],
         
         "isNationalWonder": true,
         "cost": 125
@@ -171,7 +172,7 @@
             "Destroyed when the city is captured",
             "Doubles Gold given to enemy if city is captured",
             "[2] units cost no maintenance",
-            "Can only be built [in capital]"
+            "Can only be built <in [in capital] cities>" 
         ],
 
         "isNationalWonder": true,
@@ -256,8 +257,8 @@
         "requiredBuilding": "Cuddly toy store",
 
         "uniques": [
-            "Requires a [Cuddly toy factory] in at least [1] cities",
-            "Requires a [Public School] in at least [1] cities",
+            "Only available <if [Cuddly toy factor] is constructed in at least [1] of [All] cities>",
+            "Only available <if [Public School] is constructed in at least [1] of [All] cities>",
             "Requires at least [8] population",
             "[+1 Culture] from all [Happiness] buildings",
             "[+1 Culture] from all [Faith] buildings",
