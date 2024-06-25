@@ -257,7 +257,7 @@
         "requiredBuilding": "Cuddly toy store",
 
         "uniques": [
-            "Only available <if [Cuddly toy factor] is constructed in at least [1] of [All] cities>",
+            "Only available <if [Cuddly toy factory] is constructed in at least [1] of [All] cities>",
             "Only available <if [Public School] is constructed in at least [1] of [All] cities>",
             "Requires at least [8] population",
             "[+1 Culture] from all [Happiness] buildings",
