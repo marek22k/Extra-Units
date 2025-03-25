@@ -12,7 +12,7 @@
 
 		"strength": 5,
 		"movement": 2,
-		
+
         "promotions": ["Ignore terrain cost"],
 		"attackSound": "nonmetalhit",
 		"cost": 25
@@ -27,7 +27,7 @@
 
 		"strength": 20,
 		"movement": 3,
-		
+
         "promotions": ["Ignore terrain cost", "Scouting I"],
 		"attackSound": "nonmetalhit",
 		"cost": 200
@@ -49,7 +49,7 @@
         "strength": 4,
         "rangedStrength": 8,
         "movement": 2,
-    
+
         "attackSound": "arrow",
         "cost": 35
     },
@@ -68,7 +68,7 @@
         "strength": 5,
         "rangedStrength": 13,
         "movement": 2,
-    
+
         "attackSound": "arrow",
         "cost": 70
     },
@@ -83,7 +83,7 @@
         "strength": 10,
         "rangedStrength": 20,
         "movement": 2,
-    
+
         "attackSound": "crossbow",
         "cost": 110
     },
@@ -98,7 +98,7 @@
         "strength": 20,
         "rangedStrength": 35,
         "movement": 2,
-    
+
         "attackSound": "machinegun",
         "cost": 220
     },
@@ -109,13 +109,13 @@
         "requiredTech": "Ballistics",
         "obsoleteTech": "Mobile Tactics",
         "upgradesTo": "Frontier Hunter",
-        
+
         "uniques": ["May Paradrop up to [2] tiles from inside friendly territory"],
 
         "strength": 50,
         "rangedStrength": 70,
         "movement": 2,
-    
+
         "attackSound": "machinegun",
         "cost": 220
     },
@@ -124,13 +124,13 @@
         "unitType": "Ranged Frontier Hunter",
 
         "requiredTech": "Mobile Tactics",
-        
+
         "uniques": ["May Paradrop up to [2] tiles from inside friendly territory"],
 
         "strength": 70,
         "rangedStrength": 100,
         "movement": 2,
-    
+
         "attackSound": "tankshot",
         "cost": 360
     },
@@ -152,7 +152,7 @@
 
         "strength": 4,
         "movement": 2,
-    
+
         "attackSound": "nonmetalhit",
         "cost": 45
     },
@@ -171,7 +171,7 @@
 
         "strength": 7,
         "movement": 2,
-    
+
         "attackSound": "nonmetalhit",
         "cost": 70
     },
@@ -187,7 +187,7 @@
 
         "strength": 14,
         "movement": 2,
-    
+
         "attackSound": "nonmetalhit",
         "cost": 120
     },
@@ -203,7 +203,7 @@
 
         "strength": 20,
         "movement": 2,
-    
+
         "attackSound": "nonmetalhit",
         "cost": 220
     },
@@ -217,7 +217,7 @@
 
         "strength": 40,
         "movement": 2,
-    
+
         "attackSound": "nonmetalhit",
         "cost": 400
     }
