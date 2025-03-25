@@ -7,9 +7,9 @@
 
         "requiredTech": "Rifling",
 		"requiredBuilding": "Armory",
-        
+
         "uniques": [
-            "New [Military] units start with [15] Experience [in this city]",
+            "New [Military] units start with [15] XP [in this city]",
             "Destroyed when the city is captured"
         ],
 
@@ -47,7 +47,7 @@
     },
     {
         "name": "Medical School",
-        
+
         "maintenance": 1,
         "hurryCostModifier": 20,
 
@@ -56,14 +56,14 @@
         "uniques": [
             "All newly-trained [Medical] units [in this city] receive the [Loyalty I] promotion",
             "All newly-trained [Medical] units [in this city] receive the [Escape I] promotion",
-            "New [Medical] units start with [5] Experience [in this city]",
+            "New [Medical] units start with [5] XP [in this city]",
             "Destroyed when the city is captured"],
 
         "cost": 300
     },
     {
         "name": "Therapy Center",
-        
+
         "maintenance": 2,
         "hurryCostModifier": 30,
         "cityHealth": 5,
@@ -78,7 +78,7 @@
     },
     {
         "name": "Cemetery",
-        
+
         "maintenance": 1,
         "cityStrength": 5,
         "faith": 2,
@@ -92,7 +92,7 @@
     },
     {
         "name": "Cuddly toy store",
-        
+
         "maintenance": 1,
         "culture": 2,
         "happiness": 1,
@@ -108,7 +108,7 @@
     },
     {
         "name": "Adult Education Center",
-        
+
         "maintenance": 2,
         "culture": 5,
 
@@ -153,7 +153,7 @@
             "Destroyed when the city is captured",
             "Only available <if [Emergency service] is constructed in at least [4] of [All] cities>"
         ],
-        
+
         "isNationalWonder": true,
         "cost": 125
     },
@@ -166,9 +166,9 @@
 
         "requiredTech": "Rifling",
 		"requiredBuilding": "Castle",
-        
+
         "uniques": [
-            "New [Military] units start with [15] Experience [in this city]",
+            "New [Military] units start with [15] XP [in this city]",
             "Destroyed when the city is captured",
             "Doubles Gold given to enemy if city is captured",
             "[2] units cost no maintenance",
@@ -180,7 +180,7 @@
     },
     {
         "name": "Parliament",
-        
+
         "maintenance": 3,
         "culture": 3,
 
@@ -210,7 +210,7 @@
     },
     {
         "name": "Puppet theater",
-        
+
         "maintenance": 2,
         "culture": 5,
         "happiness": 1,
@@ -229,7 +229,7 @@
     },
     {
         "name": "Cuddly toy factory",
-        
+
         "maintenance": 2,
         "culture": 3,
         "happiness": 3,
@@ -248,7 +248,7 @@
     },
     {
         "name": "Cuddly toy repair center",
-        
+
         "maintenance": 2,
         "culture": 2,
         "happiness": 4,

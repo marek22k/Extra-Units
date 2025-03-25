@@ -144,7 +144,7 @@
     // Frontier Hunter
     {
         "name": "Heal Instantly",
-		"uniques": ["Heal this unit by [50] HP", "Doing so will consume this opportunity to choose a Promotion"],
+		"uniques": ["[This Unit] heals [50] HP", "Doing so will consume this opportunity to choose a Promotion"],
 		"unitTypes": ["Ranged Frontier Hunter"],
         "row": 0,
         "column": 0
@@ -222,7 +222,7 @@
     // Medic
     {
 		"name": "Heal Instantly",
-		"uniques": ["Heal this unit by [150] HP", "Doing so will consume this opportunity to choose a Promotion"],
+		"uniques": ["[This Unit] heals [150] HP", "Doing so will consume this opportunity to choose a Promotion"],
 		"unitTypes": ["Medical"],
         "row": 1,
         "column": 0
